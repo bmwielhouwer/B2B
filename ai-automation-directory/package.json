@@ -9,9 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "ioredis": "^5.11.1",
     "next": "16.2.7",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "resend": "^6.12.4",
+    "stripe": "^22.2.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
