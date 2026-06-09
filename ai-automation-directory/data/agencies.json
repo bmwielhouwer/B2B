@@ -1,0 +1,3311 @@
+[
+  {
+    "id": 1,
+    "slug": "nova-loop",
+    "name": "NovaLoop",
+    "tagline": "Smarter campaigns, fewer manual steps, better conversions.",
+    "description": "NovaLoop is a marketing automation agency that connects scattered marketing tools into one orchestrated funnel. Clients typically see faster campaign launches and tighter attribution.",
+    "category": "marketing-automation",
+    "services": [
+      "CRM and marketing platform integration",
+      "Campaign orchestration",
+      "Attribution and reporting dashboards"
+    ],
+    "location": {
+      "city": "Tel Aviv",
+      "country": "Israel"
+    },
+    "website": "https://www.novaloop.com",
+    "founded": 2021,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 2,
+    "slug": "junction-spark",
+    "name": "JunctionSpark",
+    "tagline": "Outbound and follow-up that runs itself.",
+    "description": "JunctionSpark is a sales automation agency that streamlines lead routing, follow-up, and CRM data entry so reps can sell. They obsess over pipeline velocity and clean CRM data. Each engagement is tuned to the team’s real sales motion.",
+    "category": "sales-automation",
+    "services": [
+      "Meeting scheduling automation",
+      "Lead routing and assignment",
+      "Sales playbook automation",
+      "Outbound sequence automation",
+      "CRM hygiene and enrichment"
+    ],
+    "location": {
+      "city": "Dallas",
+      "country": "United States"
+    },
+    "website": "https://www.junctionspark.com",
+    "founded": 2023,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "slug": "lattice-anchor",
+    "name": "LatticeAnchor",
+    "tagline": "Turning messy data into decisions you can trust.",
+    "description": "LatticeAnchor is a data analytics agency that builds modern data pipelines and dashboards for data-driven organizations. Stakeholders get metrics they can actually trust and act on.",
+    "category": "data-analytics",
+    "services": [
+      "Data quality and governance",
+      "Real-time reporting",
+      "Self-serve analytics enablement",
+      "ETL and data pipeline development",
+      "Predictive modeling"
+    ],
+    "location": {
+      "city": "Austin",
+      "country": "United States"
+    },
+    "website": "https://www.latticeanchor.com",
+    "founded": 2021,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "slug": "northwind-loop",
+    "name": "NorthwindLoop",
+    "tagline": "Operational glue for your entire software stack.",
+    "description": "NorthwindLoop is a workflow automation agency that eliminates repetitive manual handoffs across teams and tools. They map your processes before automating a single step. Integrations are built to be resilient and easy to monitor.",
+    "category": "workflow-automation",
+    "services": [
+      "Process mapping",
+      "Internal tooling automation",
+      "No-code workflow design",
+      "Document automation"
+    ],
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "website": "https://www.northwindloop.com",
+    "founded": 2023,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "slug": "pulse-harbor",
+    "name": "PulseHarbor",
+    "tagline": "Always-on support that sounds human.",
+    "description": "PulseHarbor is a AI chatbot agency that designs conversational AI for support, sales, and onboarding. Every assistant is built with clear guardrails and escalation paths.",
+    "category": "ai-chatbots",
+    "services": [
+      "Knowledge base integration",
+      "Conversational AI design",
+      "Chatbot analytics and tuning"
+    ],
+    "location": {
+      "city": "Salt Lake City",
+      "country": "United States"
+    },
+    "website": "https://www.pulseharbor.com",
+    "founded": 2016,
+    "teamSize": "51-200",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "slug": "mira-engine",
+    "name": "MiraEngine",
+    "tagline": "End-to-end automation for complex business processes.",
+    "description": "MiraEngine is a process automation agency that automates high-volume back-office processes with RPA and custom software. Clients see fewer errors and dramatically faster turnaround.",
+    "category": "process-automation",
+    "services": [
+      "Robotic process automation",
+      "Document processing",
+      "Process discovery and audit"
+    ],
+    "location": {
+      "city": "Denver",
+      "country": "United States"
+    },
+    "website": "https://www.miraengine.com",
+    "founded": 2020,
+    "teamSize": "2-9",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "slug": "verda-quotient",
+    "name": "VerdaQuotient",
+    "tagline": "Cutting through AI hype to deliver measurable value.",
+    "description": "VerdaQuotient is a AI consulting agency that guides organizations from AI strategy through to production deployment. Engagements focus on use cases with clear, measurable returns.",
+    "category": "ai-consulting",
+    "services": [
+      "Vendor and tooling evaluation",
+      "AI strategy and roadmapping",
+      "Machine learning prototyping"
+    ],
+    "location": {
+      "city": "Atlanta",
+      "country": "United States"
+    },
+    "website": "https://www.verdaquotient.com",
+    "founded": 2020,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "slug": "veloci-vault",
+    "name": "VelociVault",
+    "tagline": "We make your marketing stack work as one connected machine.",
+    "description": "VelociVault is a marketing automation agency that designs and automates end-to-end marketing journeys for growth-focused brands. Every workflow is built to be measured, tested, and continuously improved.",
+    "category": "marketing-automation",
+    "services": [
+      "Lead scoring and nurturing",
+      "CRM and marketing platform integration",
+      "Attribution and reporting dashboards"
+    ],
+    "location": {
+      "city": "Raleigh",
+      "country": "United States"
+    },
+    "website": "https://www.velocivault.com",
+    "founded": 2016,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "slug": "forge-stack",
+    "name": "ForgeStack",
+    "tagline": "From first touch to closed-won, fully orchestrated.",
+    "description": "ForgeStack is a sales automation agency that builds repeatable sales playbooks powered by automation. Reps spend more time talking to prospects and less time updating records. Each engagement is tuned to the team’s real sales motion.",
+    "category": "sales-automation",
+    "services": [
+      "Meeting scheduling automation",
+      "Sales playbook automation",
+      "Quote and proposal workflows"
+    ],
+    "location": {
+      "city": "Miami",
+      "country": "United States"
+    },
+    "website": "https://www.forgestack.com",
+    "founded": 2018,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 10,
+    "slug": "wisp-logic",
+    "name": "WispLogic",
+    "tagline": "Analytics infrastructure built for teams that move quickly.",
+    "description": "WispLogic is a data analytics agency that turns fragmented data sources into reliable, decision-ready reporting. They cover the full stack from ingestion to visualization.",
+    "category": "data-analytics",
+    "services": [
+      "Data quality and governance",
+      "Real-time reporting",
+      "Predictive modeling",
+      "Self-serve analytics enablement"
+    ],
+    "location": {
+      "city": "Copenhagen",
+      "country": "Denmark"
+    },
+    "website": "https://www.wisplogic.com",
+    "founded": 2019,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 11,
+    "slug": "pulse-spark",
+    "name": "PulseSpark",
+    "tagline": "Connecting your tools so work flows without friction.",
+    "description": "PulseSpark is a workflow automation agency that eliminates repetitive manual handoffs across teams and tools. Teams reclaim hours each week from tedious manual work. Integrations are built to be resilient and easy to monitor.",
+    "category": "workflow-automation",
+    "services": [
+      "API orchestration",
+      "Document automation",
+      "No-code workflow design",
+      "Internal tooling automation"
+    ],
+    "location": {
+      "city": "Miami",
+      "country": "United States"
+    },
+    "website": "https://www.pulsespark.com",
+    "founded": 2019,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 12,
+    "slug": "rune-matrix",
+    "name": "RuneMatrix",
+    "tagline": "We build assistants that resolve, not deflect.",
+    "description": "RuneMatrix is a AI chatbot agency that designs conversational AI for support, sales, and onboarding. Bots are trained on real conversations and continuously refined. Every assistant is built with clear guardrails and escalation paths.",
+    "category": "ai-chatbots",
+    "services": [
+      "Chatbot analytics and tuning",
+      "Live-agent handoff setup",
+      "Omnichannel deployment"
+    ],
+    "location": {
+      "city": "Chicago",
+      "country": "United States"
+    },
+    "website": "https://www.runematrix.com",
+    "founded": 2022,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 13,
+    "slug": "quill-craft",
+    "name": "QuillCraft",
+    "tagline": "Faster operations, fewer errors, lower cost.",
+    "description": "QuillCraft is a process automation agency that removes manual bottlenecks from finance, HR, and operations workflows. Each automation is documented and built for long-term reliability.",
+    "category": "process-automation",
+    "services": [
+      "Invoice and finance automation",
+      "Process discovery and audit",
+      "Robotic process automation",
+      "Legacy system integration",
+      "Compliance workflow automation"
+    ],
+    "location": {
+      "city": "Austin",
+      "country": "United States"
+    },
+    "website": "https://www.quillcraft.com",
+    "founded": 2023,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 14,
+    "slug": "verda-grid",
+    "name": "VerdaGrid",
+    "tagline": "From AI roadmap to production, with you the whole way.",
+    "description": "VerdaGrid is a AI consulting agency that advises leadership on practical, responsible AI adoption. They pair strategic guidance with hands-on engineering support.",
+    "category": "ai-consulting",
+    "services": [
+      "AI strategy and roadmapping",
+      "Use-case discovery",
+      "MLOps and model deployment",
+      "AI governance and training",
+      "Machine learning prototyping"
+    ],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "website": "https://www.verdagrid.com",
+    "founded": 2019,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 15,
+    "slug": "glint-anchor",
+    "name": "GlintAnchor",
+    "tagline": "We make your marketing stack work as one connected machine.",
+    "description": "GlintAnchor is a marketing automation agency that builds personalized email and lifecycle programs that scale without extra headcount. Their team blends lifecycle strategy with hands-on platform engineering. Every workflow is built to be measured, tested, and continuously improved.",
+    "category": "marketing-automation",
+    "services": [
+      "CRM and marketing platform integration",
+      "Attribution and reporting dashboards",
+      "Lead scoring and nurturing",
+      "Email lifecycle automation",
+      "Campaign orchestration"
+    ],
+    "location": {
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    "website": "https://www.glintanchor.com",
+    "founded": 2022,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 16,
+    "slug": "lumen-engine",
+    "name": "LumenEngine",
+    "tagline": "Automated pipelines that keep every deal moving forward.",
+    "description": "LumenEngine is a sales automation agency that streamlines lead routing, follow-up, and CRM data entry so reps can sell. Each engagement is tuned to the team’s real sales motion. They obsess over pipeline velocity and clean CRM data.",
+    "category": "sales-automation",
+    "services": [
+      "CRM hygiene and enrichment",
+      "Meeting scheduling automation",
+      "Outbound sequence automation",
+      "Pipeline reporting",
+      "Sales playbook automation"
+    ],
+    "location": {
+      "city": "Seattle",
+      "country": "United States"
+    },
+    "website": "https://www.lumenengine.com",
+    "founded": 2017,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 17,
+    "slug": "lattice-quotient",
+    "name": "LatticeQuotient",
+    "tagline": "From raw events to clear insight, end to end.",
+    "description": "LatticeQuotient is a data analytics agency that builds modern data pipelines and dashboards for data-driven organizations. They cover the full stack from ingestion to visualization. Stakeholders get metrics they can actually trust and act on.",
+    "category": "data-analytics",
+    "services": [
+      "Data warehouse design",
+      "Business intelligence dashboards",
+      "Real-time reporting",
+      "ETL and data pipeline development",
+      "Self-serve analytics enablement"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States"
+    },
+    "website": "https://www.latticequotient.com",
+    "founded": 2017,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 18,
+    "slug": "zephyr-stack",
+    "name": "ZephyrStack",
+    "tagline": "Every repetitive task, quietly handled.",
+    "description": "ZephyrStack is a workflow automation agency that eliminates repetitive manual handoffs across teams and tools. Integrations are built to be resilient and easy to monitor. Teams reclaim hours each week from tedious manual work.",
+    "category": "workflow-automation",
+    "services": [
+      "Document automation",
+      "App integration and middleware",
+      "Automated approvals and notifications"
+    ],
+    "location": {
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "website": "https://www.zephyrstack.com",
+    "founded": 2018,
+    "teamSize": "100-200",
+    "featured": false
+  },
+  {
+    "id": 19,
+    "slug": "polaris-labs",
+    "name": "PolarisLabs",
+    "tagline": "Intelligent conversations across every channel.",
+    "description": "PolarisLabs is a AI chatbot agency that deploys multilingual chatbots grounded in your own knowledge base. Bots are trained on real conversations and continuously refined. Customers get instant answers while teams handle only what needs a human.",
+    "category": "ai-chatbots",
+    "services": [
+      "Live-agent handoff setup",
+      "Voice assistant development",
+      "Conversational AI design"
+    ],
+    "location": {
+      "city": "Austin",
+      "country": "United States"
+    },
+    "website": "https://www.polarislabs.com",
+    "founded": 2022,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 20,
+    "slug": "quanta-bridge",
+    "name": "QuantaBridge",
+    "tagline": "Automating the back-office work nobody enjoys.",
+    "description": "QuantaBridge is a process automation agency that removes manual bottlenecks from finance, HR, and operations workflows. They start with the processes that drain the most time. Clients see fewer errors and dramatically faster turnaround.",
+    "category": "process-automation",
+    "services": [
+      "Document processing",
+      "HR and onboarding automation",
+      "Compliance workflow automation"
+    ],
+    "location": {
+      "city": "Miami",
+      "country": "United States"
+    },
+    "website": "https://www.quantabridge.com",
+    "founded": 2021,
+    "teamSize": "100-200",
+    "featured": false
+  },
+  {
+    "id": 21,
+    "slug": "junction-wave",
+    "name": "JunctionWave",
+    "tagline": "Helping companies turn AI ambition into shipped products.",
+    "description": "JunctionWave is a AI consulting agency that advises leadership on practical, responsible AI adoption. Engagements focus on use cases with clear, measurable returns.",
+    "category": "ai-consulting",
+    "services": [
+      "Use-case discovery",
+      "Machine learning prototyping",
+      "MLOps and model deployment",
+      "AI strategy and roadmapping"
+    ],
+    "location": {
+      "city": "Dallas",
+      "country": "United States"
+    },
+    "website": "https://www.junctionwave.com",
+    "founded": 2019,
+    "teamSize": "1-10",
+    "featured": true
+  },
+  {
+    "id": 22,
+    "slug": "cypher-bridge",
+    "name": "CypherBridge",
+    "tagline": "Turning campaigns into self-running revenue engines.",
+    "description": "CypherBridge is a marketing automation agency that connects scattered marketing tools into one orchestrated funnel. Clients typically see faster campaign launches and tighter attribution.",
+    "category": "marketing-automation",
+    "services": [
+      "Customer segmentation",
+      "Attribution and reporting dashboards",
+      "Landing page and form automation"
+    ],
+    "location": {
+      "city": "Salt Lake City",
+      "country": "United States"
+    },
+    "website": "https://www.cypherbridge.com",
+    "founded": 2020,
+    "teamSize": "60-150",
+    "featured": false
+  },
+  {
+    "id": 23,
+    "slug": "indigo-matrix",
+    "name": "IndigoMatrix",
+    "tagline": "Automated pipelines that keep every deal moving forward.",
+    "description": "IndigoMatrix is a sales automation agency that automates outbound sequences and pipeline hygiene for high-velocity sales teams. Each engagement is tuned to the team’s real sales motion.",
+    "category": "sales-automation",
+    "services": [
+      "CRM hygiene and enrichment",
+      "Outbound sequence automation",
+      "Lead routing and assignment"
+    ],
+    "location": {
+      "city": "Phoenix",
+      "country": "United States"
+    },
+    "website": "https://www.indigomatrix.com",
+    "founded": 2020,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 24,
+    "slug": "quanta-labs",
+    "name": "QuantaLabs",
+    "tagline": "We make your numbers tell the truth, fast.",
+    "description": "QuantaLabs is a data analytics agency that designs analytics infrastructure that scales with the business. Stakeholders get metrics they can actually trust and act on.",
+    "category": "data-analytics",
+    "services": [
+      "Self-serve analytics enablement",
+      "ETL and data pipeline development",
+      "Data warehouse design"
+    ],
+    "location": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "website": "https://www.quantalabs.com",
+    "founded": 2018,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 25,
+    "slug": "glint-stream",
+    "name": "GlintStream",
+    "tagline": "Every repetitive task, quietly handled.",
+    "description": "GlintStream is a workflow automation agency that eliminates repetitive manual handoffs across teams and tools. Integrations are built to be resilient and easy to monitor.",
+    "category": "workflow-automation",
+    "services": [
+      "API orchestration",
+      "App integration and middleware",
+      "Process mapping",
+      "Automated approvals and notifications",
+      "Internal tooling automation"
+    ],
+    "location": {
+      "city": "Zurich",
+      "country": "Switzerland"
+    },
+    "website": "https://www.glintstream.com",
+    "founded": 2016,
+    "teamSize": "4-12",
+    "featured": true
+  },
+  {
+    "id": 26,
+    "slug": "northwind-spark",
+    "name": "NorthwindSpark",
+    "tagline": "Always-on support that sounds human.",
+    "description": "NorthwindSpark is a AI chatbot agency that deploys multilingual chatbots grounded in your own knowledge base. Every assistant is built with clear guardrails and escalation paths.",
+    "category": "ai-chatbots",
+    "services": [
+      "Multilingual chatbot development",
+      "Live-agent handoff setup",
+      "Voice assistant development"
+    ],
+    "location": {
+      "city": "Detroit",
+      "country": "United States"
+    },
+    "website": "https://www.northwindspark.com",
+    "founded": 2020,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 27,
+    "slug": "tessel-grid",
+    "name": "TesselGrid",
+    "tagline": "Robotic process automation that pays for itself.",
+    "description": "TesselGrid is a process automation agency that designs end-to-end process automation that cuts cost and error rates. Clients see fewer errors and dramatically faster turnaround. They start with the processes that drain the most time.",
+    "category": "process-automation",
+    "services": [
+      "Compliance workflow automation",
+      "Legacy system integration",
+      "HR and onboarding automation",
+      "Process discovery and audit"
+    ],
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "website": "https://www.tesselgrid.com",
+    "founded": 2023,
+    "teamSize": "60-150",
+    "featured": false
+  },
+  {
+    "id": 28,
+    "slug": "quanta-wave",
+    "name": "QuantaWave",
+    "tagline": "Cutting through AI hype to deliver measurable value.",
+    "description": "QuantaWave is a AI consulting agency that advises leadership on practical, responsible AI adoption. Engagements focus on use cases with clear, measurable returns.",
+    "category": "ai-consulting",
+    "services": [
+      "Use-case discovery",
+      "MLOps and model deployment",
+      "LLM application development",
+      "Vendor and tooling evaluation"
+    ],
+    "location": {
+      "city": "Detroit",
+      "country": "United States"
+    },
+    "website": "https://www.quantawave.com",
+    "founded": 2023,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 29,
+    "slug": "quanta-harbor",
+    "name": "QuantaHarbor",
+    "tagline": "Personalized journeys at scale, without the busywork.",
+    "description": "QuantaHarbor is a marketing automation agency that connects scattered marketing tools into one orchestrated funnel. Clients typically see faster campaign launches and tighter attribution. Their team blends lifecycle strategy with hands-on platform engineering.",
+    "category": "marketing-automation",
+    "services": [
+      "Lead scoring and nurturing",
+      "CRM and marketing platform integration",
+      "Customer segmentation",
+      "Landing page and form automation",
+      "Email lifecycle automation"
+    ],
+    "location": {
+      "city": "Seattle",
+      "country": "United States"
+    },
+    "website": "https://www.quantaharbor.com",
+    "founded": 2020,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 30,
+    "slug": "astra-stack",
+    "name": "AstraStack",
+    "tagline": "Helping sales teams close more by doing less manual work.",
+    "description": "AstraStack is a sales automation agency that automates outbound sequences and pipeline hygiene for high-velocity sales teams. Reps spend more time talking to prospects and less time updating records. They obsess over pipeline velocity and clean CRM data.",
+    "category": "sales-automation",
+    "services": [
+      "Meeting scheduling automation",
+      "Quote and proposal workflows",
+      "Lead routing and assignment"
+    ],
+    "location": {
+      "city": "Detroit",
+      "country": "United States"
+    },
+    "website": "https://www.astrastack.com",
+    "founded": 2019,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 31,
+    "slug": "pulse-logic",
+    "name": "PulseLogic",
+    "tagline": "Dashboards that finally answer the right questions.",
+    "description": "PulseLogic is a data analytics agency that designs analytics infrastructure that scales with the business. They cover the full stack from ingestion to visualization. Models and dashboards are documented, tested, and easy to maintain.",
+    "category": "data-analytics",
+    "services": [
+      "ETL and data pipeline development",
+      "Data warehouse design",
+      "Self-serve analytics enablement",
+      "Real-time reporting"
+    ],
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "website": "https://www.pulselogic.com",
+    "founded": 2021,
+    "teamSize": "60-150",
+    "featured": false
+  },
+  {
+    "id": 32,
+    "slug": "zephyr-quotient",
+    "name": "ZephyrQuotient",
+    "tagline": "Every repetitive task, quietly handled.",
+    "description": "ZephyrQuotient is a workflow automation agency that connects business apps into seamless automated workflows. Integrations are built to be resilient and easy to monitor.",
+    "category": "workflow-automation",
+    "services": [
+      "Document automation",
+      "Process mapping",
+      "App integration and middleware",
+      "Automated approvals and notifications",
+      "API orchestration"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "country": "United States"
+    },
+    "website": "https://www.zephyrquotient.com",
+    "founded": 2018,
+    "teamSize": "60-150",
+    "featured": false
+  },
+  {
+    "id": 33,
+    "slug": "sable-sphere",
+    "name": "SableSphere",
+    "tagline": "Chatbots your customers don’t hate.",
+    "description": "SableSphere is a AI chatbot agency that designs conversational AI for support, sales, and onboarding. Customers get instant answers while teams handle only what needs a human.",
+    "category": "ai-chatbots",
+    "services": [
+      "Chatbot analytics and tuning",
+      "Voice assistant development",
+      "Omnichannel deployment"
+    ],
+    "location": {
+      "city": "Atlanta",
+      "country": "United States"
+    },
+    "website": "https://www.sablesphere.com",
+    "founded": 2020,
+    "teamSize": "60-150",
+    "featured": false
+  },
+  {
+    "id": 34,
+    "slug": "northwind-nexus",
+    "name": "NorthwindNexus",
+    "tagline": "End-to-end automation for complex business processes.",
+    "description": "NorthwindNexus is a process automation agency that automates high-volume back-office processes with RPA and custom software. Clients see fewer errors and dramatically faster turnaround.",
+    "category": "process-automation",
+    "services": [
+      "Robotic process automation",
+      "Process discovery and audit",
+      "Compliance workflow automation",
+      "Invoice and finance automation"
+    ],
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia"
+    },
+    "website": "https://www.northwindnexus.com",
+    "founded": 2019,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 35,
+    "slug": "nova-signal",
+    "name": "NovaSignal",
+    "tagline": "Pragmatic AI strategy, real implementation.",
+    "description": "NovaSignal is a AI consulting agency that advises leadership on practical, responsible AI adoption. Engagements focus on use cases with clear, measurable returns.",
+    "category": "ai-consulting",
+    "services": [
+      "Use-case discovery",
+      "MLOps and model deployment",
+      "AI strategy and roadmapping",
+      "AI governance and training"
+    ],
+    "location": {
+      "city": "Nashville",
+      "country": "United States"
+    },
+    "website": "https://www.novasignal.com",
+    "founded": 2016,
+    "teamSize": "100-200",
+    "featured": false
+  },
+  {
+    "id": 36,
+    "slug": "lattice-wave",
+    "name": "LatticeWave",
+    "tagline": "Turning campaigns into self-running revenue engines.",
+    "description": "LatticeWave is a marketing automation agency that builds personalized email and lifecycle programs that scale without extra headcount. Clients typically see faster campaign launches and tighter attribution. Their team blends lifecycle strategy with hands-on platform engineering.",
+    "category": "marketing-automation",
+    "services": [
+      "Landing page and form automation",
+      "Email lifecycle automation",
+      "Campaign orchestration",
+      "CRM and marketing platform integration"
+    ],
+    "location": {
+      "city": "Salt Lake City",
+      "country": "United States"
+    },
+    "website": "https://www.latticewave.com",
+    "founded": 2021,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 37,
+    "slug": "halcyon-works",
+    "name": "HalcyonWorks",
+    "tagline": "Outbound and follow-up that runs itself.",
+    "description": "HalcyonWorks is a sales automation agency that automates outbound sequences and pipeline hygiene for high-velocity sales teams. Reps spend more time talking to prospects and less time updating records. They obsess over pipeline velocity and clean CRM data.",
+    "category": "sales-automation",
+    "services": [
+      "Pipeline reporting",
+      "CRM hygiene and enrichment",
+      "Outbound sequence automation",
+      "Lead routing and assignment"
+    ],
+    "location": {
+      "city": "Seattle",
+      "country": "United States"
+    },
+    "website": "https://www.halcyonworks.com",
+    "founded": 2019,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 38,
+    "slug": "lumin-scale",
+    "name": "LuminScale",
+    "tagline": "From raw events to clear insight, end to end.",
+    "description": "LuminScale is a data analytics agency that builds modern data pipelines and dashboards for data-driven organizations. They cover the full stack from ingestion to visualization. Stakeholders get metrics they can actually trust and act on.",
+    "category": "data-analytics",
+    "services": [
+      "Predictive modeling",
+      "Self-serve analytics enablement",
+      "Data warehouse design"
+    ],
+    "location": {
+      "city": "San Diego",
+      "country": "United States"
+    },
+    "website": "https://www.luminscale.com",
+    "founded": 2018,
+    "teamSize": "51-200",
+    "featured": false
+  },
+  {
+    "id": 39,
+    "slug": "northwind-vault",
+    "name": "NorthwindVault",
+    "tagline": "Operational glue for your entire software stack.",
+    "description": "NorthwindVault is a workflow automation agency that designs no-code and custom automations that keep operations moving. Integrations are built to be resilient and easy to monitor. They map your processes before automating a single step.",
+    "category": "workflow-automation",
+    "services": [
+      "Document automation",
+      "App integration and middleware",
+      "Automated approvals and notifications",
+      "Process mapping",
+      "Internal tooling automation"
+    ],
+    "location": {
+      "city": "Zurich",
+      "country": "Switzerland"
+    },
+    "website": "https://www.northwindvault.com",
+    "founded": 2017,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 40,
+    "slug": "nexa-core",
+    "name": "NexaCore",
+    "tagline": "Intelligent conversations across every channel.",
+    "description": "NexaCore is a AI chatbot agency that builds intelligent chat assistants that resolve customer questions around the clock. Customers get instant answers while teams handle only what needs a human.",
+    "category": "ai-chatbots",
+    "services": [
+      "Voice assistant development",
+      "Omnichannel deployment",
+      "Chatbot analytics and tuning"
+    ],
+    "location": {
+      "city": "Minneapolis",
+      "country": "United States"
+    },
+    "website": "https://www.nexacore.com",
+    "founded": 2017,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 41,
+    "slug": "pulse-bridge",
+    "name": "PulseBridge",
+    "tagline": "End-to-end automation for complex business processes.",
+    "description": "PulseBridge is a process automation agency that removes manual bottlenecks from finance, HR, and operations workflows. Clients see fewer errors and dramatically faster turnaround.",
+    "category": "process-automation",
+    "services": [
+      "Document processing",
+      "Invoice and finance automation",
+      "Process discovery and audit"
+    ],
+    "location": {
+      "city": "Boston",
+      "country": "United States"
+    },
+    "website": "https://www.pulsebridge.com",
+    "founded": 2019,
+    "teamSize": "2-9",
+    "featured": false
+  },
+  {
+    "id": 42,
+    "slug": "quill-labs",
+    "name": "QuillLabs",
+    "tagline": "From AI roadmap to production, with you the whole way.",
+    "description": "QuillLabs is a AI consulting agency that helps teams identify, prototype, and ship high-impact AI use cases. They emphasize responsible, well-governed AI from day one. Engagements focus on use cases with clear, measurable returns.",
+    "category": "ai-consulting",
+    "services": [
+      "MLOps and model deployment",
+      "Machine learning prototyping",
+      "Vendor and tooling evaluation",
+      "Use-case discovery",
+      "LLM application development"
+    ],
+    "location": {
+      "city": "Tel Aviv",
+      "country": "Israel"
+    },
+    "website": "https://www.quilllabs.com",
+    "founded": 2020,
+    "teamSize": "2-9",
+    "featured": false
+  },
+  {
+    "id": 43,
+    "slug": "halcyon-bridge",
+    "name": "HalcyonBridge",
+    "tagline": "We make your marketing stack work as one connected machine.",
+    "description": "HalcyonBridge is a marketing automation agency that designs and automates end-to-end marketing journeys for growth-focused brands. Every workflow is built to be measured, tested, and continuously improved. Their team blends lifecycle strategy with hands-on platform engineering.",
+    "category": "marketing-automation",
+    "services": [
+      "Attribution and reporting dashboards",
+      "Lead scoring and nurturing",
+      "Customer segmentation",
+      "Email lifecycle automation"
+    ],
+    "location": {
+      "city": "Austin",
+      "country": "United States"
+    },
+    "website": "https://www.halcyonbridge.com",
+    "founded": 2018,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 44,
+    "slug": "quill-pilot",
+    "name": "QuillPilot",
+    "tagline": "We hand reps back their selling time.",
+    "description": "QuillPilot is a sales automation agency that streamlines lead routing, follow-up, and CRM data entry so reps can sell. Each engagement is tuned to the team’s real sales motion. They obsess over pipeline velocity and clean CRM data.",
+    "category": "sales-automation",
+    "services": [
+      "Meeting scheduling automation",
+      "Pipeline reporting",
+      "Quote and proposal workflows",
+      "Outbound sequence automation"
+    ],
+    "location": {
+      "city": "Dallas",
+      "country": "United States"
+    },
+    "website": "https://www.quillpilot.com",
+    "founded": 2023,
+    "teamSize": "51-200",
+    "featured": false
+  },
+  {
+    "id": 45,
+    "slug": "lattice-works",
+    "name": "LatticeWorks",
+    "tagline": "Analytics infrastructure built for teams that move quickly.",
+    "description": "LatticeWorks is a data analytics agency that turns fragmented data sources into reliable, decision-ready reporting. Stakeholders get metrics they can actually trust and act on.",
+    "category": "data-analytics",
+    "services": [
+      "Predictive modeling",
+      "Real-time reporting",
+      "Self-serve analytics enablement"
+    ],
+    "location": {
+      "city": "Denver",
+      "country": "United States"
+    },
+    "website": "https://www.latticeworks.com",
+    "founded": 2017,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 46,
+    "slug": "sable-path",
+    "name": "SablePath",
+    "tagline": "We automate the handoffs that slow teams down.",
+    "description": "SablePath is a workflow automation agency that connects business apps into seamless automated workflows. They map your processes before automating a single step. Integrations are built to be resilient and easy to monitor.",
+    "category": "workflow-automation",
+    "services": [
+      "No-code workflow design",
+      "Document automation",
+      "Automated approvals and notifications",
+      "App integration and middleware"
+    ],
+    "location": {
+      "city": "Auckland",
+      "country": "New Zealand"
+    },
+    "website": "https://www.sablepath.com",
+    "founded": 2022,
+    "teamSize": "60-150",
+    "featured": false
+  },
+  {
+    "id": 47,
+    "slug": "kinet-sphere",
+    "name": "KinetSphere",
+    "tagline": "We build assistants that resolve, not deflect.",
+    "description": "KinetSphere is a AI chatbot agency that builds intelligent chat assistants that resolve customer questions around the clock. Bots are trained on real conversations and continuously refined. Customers get instant answers while teams handle only what needs a human.",
+    "category": "ai-chatbots",
+    "services": [
+      "Conversational AI design",
+      "Live-agent handoff setup",
+      "Voice assistant development",
+      "Knowledge base integration",
+      "Chatbot analytics and tuning"
+    ],
+    "location": {
+      "city": "Portland",
+      "country": "United States"
+    },
+    "website": "https://www.kinetsphere.com",
+    "founded": 2016,
+    "teamSize": "2-9",
+    "featured": true
+  },
+  {
+    "id": 48,
+    "slug": "cogni-works",
+    "name": "CogniWorks",
+    "tagline": "Faster operations, fewer errors, lower cost.",
+    "description": "CogniWorks is a process automation agency that designs end-to-end process automation that cuts cost and error rates. Each automation is documented and built for long-term reliability. They start with the processes that drain the most time.",
+    "category": "process-automation",
+    "services": [
+      "Legacy system integration",
+      "Invoice and finance automation",
+      "Compliance workflow automation",
+      "Process discovery and audit"
+    ],
+    "location": {
+      "city": "Portland",
+      "country": "United States"
+    },
+    "website": "https://www.cogniworks.com",
+    "founded": 2023,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 49,
+    "slug": "lumin-quotient",
+    "name": "LuminQuotient",
+    "tagline": "From AI roadmap to production, with you the whole way.",
+    "description": "LuminQuotient is a AI consulting agency that guides organizations from AI strategy through to production deployment. They pair strategic guidance with hands-on engineering support.",
+    "category": "ai-consulting",
+    "services": [
+      "LLM application development",
+      "AI governance and training",
+      "MLOps and model deployment"
+    ],
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "website": "https://www.luminquotient.com",
+    "founded": 2022,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 50,
+    "slug": "ember-stack",
+    "name": "EmberStack",
+    "tagline": "Smarter campaigns, fewer manual steps, better conversions.",
+    "description": "EmberStack is a marketing automation agency that builds personalized email and lifecycle programs that scale without extra headcount. Their team blends lifecycle strategy with hands-on platform engineering. Every workflow is built to be measured, tested, and continuously improved.",
+    "category": "marketing-automation",
+    "services": [
+      "Email lifecycle automation",
+      "Attribution and reporting dashboards",
+      "CRM and marketing platform integration",
+      "Lead scoring and nurturing"
+    ],
+    "location": {
+      "city": "Salt Lake City",
+      "country": "United States"
+    },
+    "website": "https://www.emberstack.com",
+    "founded": 2023,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 51,
+    "slug": "quanta-grid",
+    "name": "QuantaGrid",
+    "tagline": "From first touch to closed-won, fully orchestrated.",
+    "description": "QuantaGrid is a sales automation agency that automates outbound sequences and pipeline hygiene for high-velocity sales teams. Reps spend more time talking to prospects and less time updating records.",
+    "category": "sales-automation",
+    "services": [
+      "Outbound sequence automation",
+      "Lead routing and assignment",
+      "Meeting scheduling automation",
+      "Pipeline reporting",
+      "CRM hygiene and enrichment"
+    ],
+    "location": {
+      "city": "Nashville",
+      "country": "United States"
+    },
+    "website": "https://www.quantagrid.com",
+    "founded": 2017,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 52,
+    "slug": "halcyon-signal",
+    "name": "HalcyonSignal",
+    "tagline": "Dashboards that finally answer the right questions.",
+    "description": "HalcyonSignal is a data analytics agency that builds modern data pipelines and dashboards for data-driven organizations. Models and dashboards are documented, tested, and easy to maintain.",
+    "category": "data-analytics",
+    "services": [
+      "Business intelligence dashboards",
+      "Predictive modeling",
+      "Self-serve analytics enablement",
+      "ETL and data pipeline development",
+      "Real-time reporting"
+    ],
+    "location": {
+      "city": "Raleigh",
+      "country": "United States"
+    },
+    "website": "https://www.halcyonsignal.com",
+    "founded": 2019,
+    "teamSize": "2-9",
+    "featured": false
+  },
+  {
+    "id": 53,
+    "slug": "wisp-matrix",
+    "name": "WispMatrix",
+    "tagline": "Less copy-paste, more progress.",
+    "description": "WispMatrix is a workflow automation agency that designs no-code and custom automations that keep operations moving. They map your processes before automating a single step. Teams reclaim hours each week from tedious manual work.",
+    "category": "workflow-automation",
+    "services": [
+      "App integration and middleware",
+      "API orchestration",
+      "Automated approvals and notifications",
+      "Document automation",
+      "No-code workflow design"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "United States"
+    },
+    "website": "https://www.wispmatrix.com",
+    "founded": 2022,
+    "teamSize": "60-150",
+    "featured": false
+  },
+  {
+    "id": 54,
+    "slug": "zephyr-core",
+    "name": "ZephyrCore",
+    "tagline": "Conversational AI that actually helps your customers.",
+    "description": "ZephyrCore is a AI chatbot agency that builds intelligent chat assistants that resolve customer questions around the clock. Customers get instant answers while teams handle only what needs a human. Bots are trained on real conversations and continuously refined.",
+    "category": "ai-chatbots",
+    "services": [
+      "Live-agent handoff setup",
+      "Chatbot analytics and tuning",
+      "Omnichannel deployment"
+    ],
+    "location": {
+      "city": "Phoenix",
+      "country": "United States"
+    },
+    "website": "https://www.zephyrcore.com",
+    "founded": 2023,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 55,
+    "slug": "glint-engine",
+    "name": "GlintEngine",
+    "tagline": "Robotic process automation that pays for itself.",
+    "description": "GlintEngine is a process automation agency that automates high-volume back-office processes with RPA and custom software. They start with the processes that drain the most time. Clients see fewer errors and dramatically faster turnaround.",
+    "category": "process-automation",
+    "services": [
+      "Compliance workflow automation",
+      "Invoice and finance automation",
+      "HR and onboarding automation",
+      "Document processing",
+      "Robotic process automation"
+    ],
+    "location": {
+      "city": "Auckland",
+      "country": "New Zealand"
+    },
+    "website": "https://www.glintengine.com",
+    "founded": 2021,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 56,
+    "slug": "quasar-harbor",
+    "name": "QuasarHarbor",
+    "tagline": "Cutting through AI hype to deliver measurable value.",
+    "description": "QuasarHarbor is a AI consulting agency that helps teams identify, prototype, and ship high-impact AI use cases. Engagements focus on use cases with clear, measurable returns.",
+    "category": "ai-consulting",
+    "services": [
+      "AI governance and training",
+      "Machine learning prototyping",
+      "LLM application development",
+      "MLOps and model deployment"
+    ],
+    "location": {
+      "city": "Zurich",
+      "country": "Switzerland"
+    },
+    "website": "https://www.quasarharbor.com",
+    "founded": 2023,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 57,
+    "slug": "cobalt-loop",
+    "name": "CobaltLoop",
+    "tagline": "Turning campaigns into self-running revenue engines.",
+    "description": "CobaltLoop is a marketing automation agency that builds personalized email and lifecycle programs that scale without extra headcount. Clients typically see faster campaign launches and tighter attribution. Every workflow is built to be measured, tested, and continuously improved.",
+    "category": "marketing-automation",
+    "services": [
+      "Customer segmentation",
+      "Campaign orchestration",
+      "Lead scoring and nurturing"
+    ],
+    "location": {
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    "website": "https://www.cobaltloop.com",
+    "founded": 2017,
+    "teamSize": "100-200",
+    "featured": false
+  },
+  {
+    "id": 58,
+    "slug": "orbit-loop",
+    "name": "OrbitLoop",
+    "tagline": "We hand reps back their selling time.",
+    "description": "OrbitLoop is a sales automation agency that automates outbound sequences and pipeline hygiene for high-velocity sales teams. Reps spend more time talking to prospects and less time updating records.",
+    "category": "sales-automation",
+    "services": [
+      "Sales playbook automation",
+      "Pipeline reporting",
+      "Lead routing and assignment",
+      "Quote and proposal workflows"
+    ],
+    "location": {
+      "city": "Seattle",
+      "country": "United States"
+    },
+    "website": "https://www.orbitloop.com",
+    "founded": 2022,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 59,
+    "slug": "meridian-bloom",
+    "name": "MeridianBloom",
+    "tagline": "We make your numbers tell the truth, fast.",
+    "description": "MeridianBloom is a data analytics agency that builds modern data pipelines and dashboards for data-driven organizations. They cover the full stack from ingestion to visualization. Models and dashboards are documented, tested, and easy to maintain.",
+    "category": "data-analytics",
+    "services": [
+      "Predictive modeling",
+      "Real-time reporting",
+      "Business intelligence dashboards",
+      "Data warehouse design"
+    ],
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "website": "https://www.meridianbloom.com",
+    "founded": 2017,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 60,
+    "slug": "onyx-matrix",
+    "name": "OnyxMatrix",
+    "tagline": "We automate the handoffs that slow teams down.",
+    "description": "OnyxMatrix is a workflow automation agency that connects business apps into seamless automated workflows. They map your processes before automating a single step. Integrations are built to be resilient and easy to monitor.",
+    "category": "workflow-automation",
+    "services": [
+      "Internal tooling automation",
+      "Document automation",
+      "No-code workflow design",
+      "Automated approvals and notifications"
+    ],
+    "location": {
+      "city": "Chicago",
+      "country": "United States"
+    },
+    "website": "https://www.onyxmatrix.com",
+    "founded": 2017,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 61,
+    "slug": "verda-sphere",
+    "name": "VerdaSphere",
+    "tagline": "Chatbots your customers don’t hate.",
+    "description": "VerdaSphere is a AI chatbot agency that deploys multilingual chatbots grounded in your own knowledge base. Bots are trained on real conversations and continuously refined. Customers get instant answers while teams handle only what needs a human.",
+    "category": "ai-chatbots",
+    "services": [
+      "Conversational AI design",
+      "Omnichannel deployment",
+      "Live-agent handoff setup",
+      "Multilingual chatbot development",
+      "Voice assistant development"
+    ],
+    "location": {
+      "city": "Denver",
+      "country": "United States"
+    },
+    "website": "https://www.verdasphere.com",
+    "founded": 2020,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 62,
+    "slug": "lattice-bridge",
+    "name": "LatticeBridge",
+    "tagline": "Robotic process automation that pays for itself.",
+    "description": "LatticeBridge is a process automation agency that automates high-volume back-office processes with RPA and custom software. They start with the processes that drain the most time. Clients see fewer errors and dramatically faster turnaround.",
+    "category": "process-automation",
+    "services": [
+      "Document processing",
+      "Robotic process automation",
+      "Legacy system integration",
+      "Process discovery and audit",
+      "HR and onboarding automation"
+    ],
+    "location": {
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    "website": "https://www.latticebridge.com",
+    "founded": 2019,
+    "teamSize": "2-9",
+    "featured": false
+  },
+  {
+    "id": 63,
+    "slug": "tessel-mind",
+    "name": "TesselMind",
+    "tagline": "From AI roadmap to production, with you the whole way.",
+    "description": "TesselMind is a AI consulting agency that guides organizations from AI strategy through to production deployment. Engagements focus on use cases with clear, measurable returns.",
+    "category": "ai-consulting",
+    "services": [
+      "LLM application development",
+      "AI strategy and roadmapping",
+      "Machine learning prototyping"
+    ],
+    "location": {
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    "website": "https://www.tesselmind.com",
+    "founded": 2022,
+    "teamSize": "15-40",
+    "featured": true
+  },
+  {
+    "id": 64,
+    "slug": "mira-craft",
+    "name": "MiraCraft",
+    "tagline": "Turning campaigns into self-running revenue engines.",
+    "description": "MiraCraft is a marketing automation agency that builds personalized email and lifecycle programs that scale without extra headcount. Their team blends lifecycle strategy with hands-on platform engineering.",
+    "category": "marketing-automation",
+    "services": [
+      "CRM and marketing platform integration",
+      "Email lifecycle automation",
+      "Customer segmentation",
+      "Attribution and reporting dashboards",
+      "Lead scoring and nurturing"
+    ],
+    "location": {
+      "city": "Atlanta",
+      "country": "United States"
+    },
+    "website": "https://www.miracraft.com",
+    "founded": 2019,
+    "teamSize": "51-200",
+    "featured": false
+  },
+  {
+    "id": 65,
+    "slug": "helix-path",
+    "name": "HelixPath",
+    "tagline": "We hand reps back their selling time.",
+    "description": "HelixPath is a sales automation agency that builds repeatable sales playbooks powered by automation. Reps spend more time talking to prospects and less time updating records.",
+    "category": "sales-automation",
+    "services": [
+      "Lead routing and assignment",
+      "Pipeline reporting",
+      "Quote and proposal workflows",
+      "CRM hygiene and enrichment"
+    ],
+    "location": {
+      "city": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "website": "https://www.helixpath.com",
+    "founded": 2023,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 66,
+    "slug": "astra-path",
+    "name": "AstraPath",
+    "tagline": "We make your numbers tell the truth, fast.",
+    "description": "AstraPath is a data analytics agency that builds modern data pipelines and dashboards for data-driven organizations. Models and dashboards are documented, tested, and easy to maintain. Stakeholders get metrics they can actually trust and act on.",
+    "category": "data-analytics",
+    "services": [
+      "Self-serve analytics enablement",
+      "Data warehouse design",
+      "ETL and data pipeline development",
+      "Business intelligence dashboards",
+      "Data quality and governance"
+    ],
+    "location": {
+      "city": "Raleigh",
+      "country": "United States"
+    },
+    "website": "https://www.astrapath.com",
+    "founded": 2021,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 67,
+    "slug": "wisp-signal",
+    "name": "WispSignal",
+    "tagline": "Operational glue for your entire software stack.",
+    "description": "WispSignal is a workflow automation agency that designs no-code and custom automations that keep operations moving. Integrations are built to be resilient and easy to monitor.",
+    "category": "workflow-automation",
+    "services": [
+      "No-code workflow design",
+      "Process mapping",
+      "Document automation",
+      "Automated approvals and notifications"
+    ],
+    "location": {
+      "city": "Boston",
+      "country": "United States"
+    },
+    "website": "https://www.wispsignal.com",
+    "founded": 2022,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 68,
+    "slug": "junction-labs",
+    "name": "JunctionLabs",
+    "tagline": "Intelligent conversations across every channel.",
+    "description": "JunctionLabs is a AI chatbot agency that designs conversational AI for support, sales, and onboarding. Every assistant is built with clear guardrails and escalation paths. Customers get instant answers while teams handle only what needs a human.",
+    "category": "ai-chatbots",
+    "services": [
+      "Omnichannel deployment",
+      "Live-agent handoff setup",
+      "Conversational AI design",
+      "Chatbot analytics and tuning"
+    ],
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "website": "https://www.junctionlabs.com",
+    "founded": 2021,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 69,
+    "slug": "nexa-harbor",
+    "name": "NexaHarbor",
+    "tagline": "Robotic process automation that pays for itself.",
+    "description": "NexaHarbor is a process automation agency that automates high-volume back-office processes with RPA and custom software. They start with the processes that drain the most time.",
+    "category": "process-automation",
+    "services": [
+      "HR and onboarding automation",
+      "Invoice and finance automation",
+      "Document processing",
+      "Process discovery and audit"
+    ],
+    "location": {
+      "city": "Phoenix",
+      "country": "United States"
+    },
+    "website": "https://www.nexaharbor.com",
+    "founded": 2016,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 70,
+    "slug": "polaris-stack",
+    "name": "PolarisStack",
+    "tagline": "Cutting through AI hype to deliver measurable value.",
+    "description": "PolarisStack is a AI consulting agency that guides organizations from AI strategy through to production deployment. Engagements focus on use cases with clear, measurable returns. They pair strategic guidance with hands-on engineering support.",
+    "category": "ai-consulting",
+    "services": [
+      "AI governance and training",
+      "Use-case discovery",
+      "AI strategy and roadmapping",
+      "Machine learning prototyping"
+    ],
+    "location": {
+      "city": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "website": "https://www.polarisstack.com",
+    "founded": 2018,
+    "teamSize": "51-200",
+    "featured": false
+  },
+  {
+    "id": 71,
+    "slug": "zephyr-stream",
+    "name": "ZephyrStream",
+    "tagline": "Personalized journeys at scale, without the busywork.",
+    "description": "ZephyrStream is a marketing automation agency that designs and automates end-to-end marketing journeys for growth-focused brands. Every workflow is built to be measured, tested, and continuously improved.",
+    "category": "marketing-automation",
+    "services": [
+      "Landing page and form automation",
+      "CRM and marketing platform integration",
+      "Campaign orchestration",
+      "Customer segmentation",
+      "Attribution and reporting dashboards"
+    ],
+    "location": {
+      "city": "Denver",
+      "country": "United States"
+    },
+    "website": "https://www.zephyrstream.com",
+    "founded": 2019,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 72,
+    "slug": "veloci-path",
+    "name": "VelociPath",
+    "tagline": "Helping sales teams close more by doing less manual work.",
+    "description": "VelociPath is a sales automation agency that builds repeatable sales playbooks powered by automation. They obsess over pipeline velocity and clean CRM data. Reps spend more time talking to prospects and less time updating records.",
+    "category": "sales-automation",
+    "services": [
+      "Outbound sequence automation",
+      "Quote and proposal workflows",
+      "Pipeline reporting"
+    ],
+    "location": {
+      "city": "Raleigh",
+      "country": "United States"
+    },
+    "website": "https://www.velocipath.com",
+    "founded": 2021,
+    "teamSize": "11-50",
+    "featured": true
+  },
+  {
+    "id": 73,
+    "slug": "apex-core",
+    "name": "ApexCore",
+    "tagline": "We make your numbers tell the truth, fast.",
+    "description": "ApexCore is a data analytics agency that designs analytics infrastructure that scales with the business. Models and dashboards are documented, tested, and easy to maintain. They cover the full stack from ingestion to visualization.",
+    "category": "data-analytics",
+    "services": [
+      "Self-serve analytics enablement",
+      "Data warehouse design",
+      "Business intelligence dashboards"
+    ],
+    "location": {
+      "city": "Raleigh",
+      "country": "United States"
+    },
+    "website": "https://www.apexcore.com",
+    "founded": 2021,
+    "teamSize": "100-200",
+    "featured": false
+  },
+  {
+    "id": 74,
+    "slug": "flux-loop",
+    "name": "FluxLoop",
+    "tagline": "Operational glue for your entire software stack.",
+    "description": "FluxLoop is a workflow automation agency that designs no-code and custom automations that keep operations moving. Integrations are built to be resilient and easy to monitor. Teams reclaim hours each week from tedious manual work.",
+    "category": "workflow-automation",
+    "services": [
+      "No-code workflow design",
+      "Process mapping",
+      "Document automation",
+      "API orchestration",
+      "Automated approvals and notifications"
+    ],
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia"
+    },
+    "website": "https://www.fluxloop.com",
+    "founded": 2019,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 75,
+    "slug": "kestrel-path",
+    "name": "KestrelPath",
+    "tagline": "We build assistants that resolve, not deflect.",
+    "description": "KestrelPath is a AI chatbot agency that designs conversational AI for support, sales, and onboarding. Bots are trained on real conversations and continuously refined.",
+    "category": "ai-chatbots",
+    "services": [
+      "Omnichannel deployment",
+      "Chatbot analytics and tuning",
+      "Knowledge base integration",
+      "Conversational AI design"
+    ],
+    "location": {
+      "city": "Raleigh",
+      "country": "United States"
+    },
+    "website": "https://www.kestrelpath.com",
+    "founded": 2019,
+    "teamSize": "2-9",
+    "featured": false
+  },
+  {
+    "id": 76,
+    "slug": "astra-anchor",
+    "name": "AstraAnchor",
+    "tagline": "Faster operations, fewer errors, lower cost.",
+    "description": "AstraAnchor is a process automation agency that automates high-volume back-office processes with RPA and custom software. They start with the processes that drain the most time.",
+    "category": "process-automation",
+    "services": [
+      "Process discovery and audit",
+      "Document processing",
+      "HR and onboarding automation"
+    ],
+    "location": {
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "website": "https://www.astraanchor.com",
+    "founded": 2016,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 77,
+    "slug": "helix-stream",
+    "name": "HelixStream",
+    "tagline": "Helping companies turn AI ambition into shipped products.",
+    "description": "HelixStream is a AI consulting agency that advises leadership on practical, responsible AI adoption. They pair strategic guidance with hands-on engineering support.",
+    "category": "ai-consulting",
+    "services": [
+      "Vendor and tooling evaluation",
+      "LLM application development",
+      "AI strategy and roadmapping"
+    ],
+    "location": {
+      "city": "Chicago",
+      "country": "United States"
+    },
+    "website": "https://www.helixstream.com",
+    "founded": 2023,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 78,
+    "slug": "ember-sphere",
+    "name": "EmberSphere",
+    "tagline": "We make your marketing stack work as one connected machine.",
+    "description": "EmberSphere is a marketing automation agency that builds personalized email and lifecycle programs that scale without extra headcount. Clients typically see faster campaign launches and tighter attribution.",
+    "category": "marketing-automation",
+    "services": [
+      "Landing page and form automation",
+      "Email lifecycle automation",
+      "CRM and marketing platform integration",
+      "Attribution and reporting dashboards",
+      "Campaign orchestration"
+    ],
+    "location": {
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "website": "https://www.embersphere.com",
+    "founded": 2022,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 79,
+    "slug": "nova-bloom",
+    "name": "NovaBloom",
+    "tagline": "Outbound and follow-up that runs itself.",
+    "description": "NovaBloom is a sales automation agency that automates outbound sequences and pipeline hygiene for high-velocity sales teams. Each engagement is tuned to the team’s real sales motion. Reps spend more time talking to prospects and less time updating records.",
+    "category": "sales-automation",
+    "services": [
+      "Quote and proposal workflows",
+      "Meeting scheduling automation",
+      "Sales playbook automation"
+    ],
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "website": "https://www.novabloom.com",
+    "founded": 2021,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 80,
+    "slug": "polaris-pilot",
+    "name": "PolarisPilot",
+    "tagline": "From raw events to clear insight, end to end.",
+    "description": "PolarisPilot is a data analytics agency that designs analytics infrastructure that scales with the business. Models and dashboards are documented, tested, and easy to maintain.",
+    "category": "data-analytics",
+    "services": [
+      "Data warehouse design",
+      "Self-serve analytics enablement",
+      "ETL and data pipeline development",
+      "Predictive modeling",
+      "Data quality and governance"
+    ],
+    "location": {
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    "website": "https://www.polarispilot.com",
+    "founded": 2019,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 81,
+    "slug": "veloci-bloom",
+    "name": "VelociBloom",
+    "tagline": "Every repetitive task, quietly handled.",
+    "description": "VelociBloom is a workflow automation agency that designs no-code and custom automations that keep operations moving. Teams reclaim hours each week from tedious manual work.",
+    "category": "workflow-automation",
+    "services": [
+      "No-code workflow design",
+      "App integration and middleware",
+      "Document automation",
+      "Process mapping"
+    ],
+    "location": {
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "website": "https://www.velocibloom.com",
+    "founded": 2018,
+    "teamSize": "2-9",
+    "featured": false
+  },
+  {
+    "id": 82,
+    "slug": "ion-sync",
+    "name": "IonSync",
+    "tagline": "Chatbots your customers don’t hate.",
+    "description": "IonSync is a AI chatbot agency that designs conversational AI for support, sales, and onboarding. Customers get instant answers while teams handle only what needs a human.",
+    "category": "ai-chatbots",
+    "services": [
+      "Multilingual chatbot development",
+      "Voice assistant development",
+      "Live-agent handoff setup",
+      "Chatbot analytics and tuning",
+      "Knowledge base integration"
+    ],
+    "location": {
+      "city": "Boston",
+      "country": "United States"
+    },
+    "website": "https://www.ionsync.com",
+    "founded": 2020,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 83,
+    "slug": "quasar-stack",
+    "name": "QuasarStack",
+    "tagline": "We retire your most tedious manual processes.",
+    "description": "QuasarStack is a process automation agency that automates high-volume back-office processes with RPA and custom software. Clients see fewer errors and dramatically faster turnaround. They start with the processes that drain the most time.",
+    "category": "process-automation",
+    "services": [
+      "Robotic process automation",
+      "Invoice and finance automation",
+      "HR and onboarding automation"
+    ],
+    "location": {
+      "city": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "website": "https://www.quasarstack.com",
+    "founded": 2018,
+    "teamSize": "2-9",
+    "featured": false
+  },
+  {
+    "id": 84,
+    "slug": "kestrel-forge",
+    "name": "KestrelForge",
+    "tagline": "Pragmatic AI strategy, real implementation.",
+    "description": "KestrelForge is a AI consulting agency that helps teams identify, prototype, and ship high-impact AI use cases. Engagements focus on use cases with clear, measurable returns.",
+    "category": "ai-consulting",
+    "services": [
+      "MLOps and model deployment",
+      "Machine learning prototyping",
+      "AI strategy and roadmapping",
+      "LLM application development",
+      "Vendor and tooling evaluation"
+    ],
+    "location": {
+      "city": "Austin",
+      "country": "United States"
+    },
+    "website": "https://www.kestrelforge.com",
+    "founded": 2021,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 85,
+    "slug": "junction-quotient",
+    "name": "JunctionQuotient",
+    "tagline": "Automated marketing that nurtures every lead while you sleep.",
+    "description": "JunctionQuotient is a marketing automation agency that connects scattered marketing tools into one orchestrated funnel. Their team blends lifecycle strategy with hands-on platform engineering. Clients typically see faster campaign launches and tighter attribution.",
+    "category": "marketing-automation",
+    "services": [
+      "Lead scoring and nurturing",
+      "Customer segmentation",
+      "Campaign orchestration",
+      "Attribution and reporting dashboards",
+      "Email lifecycle automation"
+    ],
+    "location": {
+      "city": "Dublin",
+      "country": "Ireland"
+    },
+    "website": "https://www.junctionquotient.com",
+    "founded": 2020,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 86,
+    "slug": "indigo-pilot",
+    "name": "IndigoPilot",
+    "tagline": "From first touch to closed-won, fully orchestrated.",
+    "description": "IndigoPilot is a sales automation agency that builds repeatable sales playbooks powered by automation. They obsess over pipeline velocity and clean CRM data.",
+    "category": "sales-automation",
+    "services": [
+      "Outbound sequence automation",
+      "CRM hygiene and enrichment",
+      "Sales playbook automation"
+    ],
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "website": "https://www.indigopilot.com",
+    "founded": 2020,
+    "teamSize": "2-9",
+    "featured": false
+  },
+  {
+    "id": 87,
+    "slug": "cypher-beacon",
+    "name": "CypherBeacon",
+    "tagline": "Dashboards that finally answer the right questions.",
+    "description": "CypherBeacon is a data analytics agency that designs analytics infrastructure that scales with the business. Models and dashboards are documented, tested, and easy to maintain. Stakeholders get metrics they can actually trust and act on.",
+    "category": "data-analytics",
+    "services": [
+      "Real-time reporting",
+      "Business intelligence dashboards",
+      "Predictive modeling",
+      "ETL and data pipeline development"
+    ],
+    "location": {
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    "website": "https://www.cypherbeacon.com",
+    "founded": 2019,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 88,
+    "slug": "apex-wave",
+    "name": "ApexWave",
+    "tagline": "Less copy-paste, more progress.",
+    "description": "ApexWave is a workflow automation agency that eliminates repetitive manual handoffs across teams and tools. Integrations are built to be resilient and easy to monitor. Teams reclaim hours each week from tedious manual work.",
+    "category": "workflow-automation",
+    "services": [
+      "API orchestration",
+      "No-code workflow design",
+      "Document automation",
+      "Process mapping"
+    ],
+    "location": {
+      "city": "Minneapolis",
+      "country": "United States"
+    },
+    "website": "https://www.apexwave.com",
+    "founded": 2022,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 89,
+    "slug": "umbra-craft",
+    "name": "UmbraCraft",
+    "tagline": "We build assistants that resolve, not deflect.",
+    "description": "UmbraCraft is a AI chatbot agency that builds intelligent chat assistants that resolve customer questions around the clock. Customers get instant answers while teams handle only what needs a human.",
+    "category": "ai-chatbots",
+    "services": [
+      "Omnichannel deployment",
+      "Multilingual chatbot development",
+      "Conversational AI design",
+      "Knowledge base integration"
+    ],
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "website": "https://www.umbracraft.com",
+    "founded": 2019,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 90,
+    "slug": "wisp-pilot",
+    "name": "WispPilot",
+    "tagline": "End-to-end automation for complex business processes.",
+    "description": "WispPilot is a process automation agency that removes manual bottlenecks from finance, HR, and operations workflows. Clients see fewer errors and dramatically faster turnaround. They start with the processes that drain the most time.",
+    "category": "process-automation",
+    "services": [
+      "Invoice and finance automation",
+      "HR and onboarding automation",
+      "Compliance workflow automation"
+    ],
+    "location": {
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    "website": "https://www.wisppilot.com",
+    "founded": 2017,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 91,
+    "slug": "northwind-scale",
+    "name": "NorthwindScale",
+    "tagline": "Helping companies turn AI ambition into shipped products.",
+    "description": "NorthwindScale is a AI consulting agency that guides organizations from AI strategy through to production deployment. Engagements focus on use cases with clear, measurable returns. They pair strategic guidance with hands-on engineering support.",
+    "category": "ai-consulting",
+    "services": [
+      "AI governance and training",
+      "AI strategy and roadmapping",
+      "MLOps and model deployment",
+      "Machine learning prototyping",
+      "Use-case discovery"
+    ],
+    "location": {
+      "city": "Dallas",
+      "country": "United States"
+    },
+    "website": "https://www.northwindscale.com",
+    "founded": 2017,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 92,
+    "slug": "kestrel-loop",
+    "name": "KestrelLoop",
+    "tagline": "Turning campaigns into self-running revenue engines.",
+    "description": "KestrelLoop is a marketing automation agency that builds personalized email and lifecycle programs that scale without extra headcount. Every workflow is built to be measured, tested, and continuously improved.",
+    "category": "marketing-automation",
+    "services": [
+      "Email lifecycle automation",
+      "Landing page and form automation",
+      "Attribution and reporting dashboards",
+      "Lead scoring and nurturing",
+      "Campaign orchestration"
+    ],
+    "location": {
+      "city": "Chicago",
+      "country": "United States"
+    },
+    "website": "https://www.kestrelloop.com",
+    "founded": 2020,
+    "teamSize": "60-150",
+    "featured": false
+  },
+  {
+    "id": 93,
+    "slug": "astra-spark",
+    "name": "AstraSpark",
+    "tagline": "From first touch to closed-won, fully orchestrated.",
+    "description": "AstraSpark is a sales automation agency that builds repeatable sales playbooks powered by automation. Each engagement is tuned to the team’s real sales motion.",
+    "category": "sales-automation",
+    "services": [
+      "Outbound sequence automation",
+      "Lead routing and assignment",
+      "Pipeline reporting",
+      "CRM hygiene and enrichment"
+    ],
+    "location": {
+      "city": "San Diego",
+      "country": "United States"
+    },
+    "website": "https://www.astraspark.com",
+    "founded": 2023,
+    "teamSize": "100-200",
+    "featured": true
+  },
+  {
+    "id": 94,
+    "slug": "apex-forge",
+    "name": "ApexForge",
+    "tagline": "We make your numbers tell the truth, fast.",
+    "description": "ApexForge is a data analytics agency that builds modern data pipelines and dashboards for data-driven organizations. Stakeholders get metrics they can actually trust and act on. Models and dashboards are documented, tested, and easy to maintain.",
+    "category": "data-analytics",
+    "services": [
+      "Self-serve analytics enablement",
+      "Data quality and governance",
+      "ETL and data pipeline development",
+      "Real-time reporting"
+    ],
+    "location": {
+      "city": "Atlanta",
+      "country": "United States"
+    },
+    "website": "https://www.apexforge.com",
+    "founded": 2017,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 95,
+    "slug": "junction-pilot",
+    "name": "JunctionPilot",
+    "tagline": "Less copy-paste, more progress.",
+    "description": "JunctionPilot is a workflow automation agency that connects business apps into seamless automated workflows. Integrations are built to be resilient and easy to monitor.",
+    "category": "workflow-automation",
+    "services": [
+      "API orchestration",
+      "No-code workflow design",
+      "Automated approvals and notifications",
+      "App integration and middleware"
+    ],
+    "location": {
+      "city": "Tel Aviv",
+      "country": "Israel"
+    },
+    "website": "https://www.junctionpilot.com",
+    "founded": 2020,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 96,
+    "slug": "verda-pilot",
+    "name": "VerdaPilot",
+    "tagline": "Always-on support that sounds human.",
+    "description": "VerdaPilot is a AI chatbot agency that deploys multilingual chatbots grounded in your own knowledge base. Customers get instant answers while teams handle only what needs a human.",
+    "category": "ai-chatbots",
+    "services": [
+      "Multilingual chatbot development",
+      "Omnichannel deployment",
+      "Voice assistant development",
+      "Chatbot analytics and tuning"
+    ],
+    "location": {
+      "city": "Chicago",
+      "country": "United States"
+    },
+    "website": "https://www.verdapilot.com",
+    "founded": 2022,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 97,
+    "slug": "nova-beacon",
+    "name": "NovaBeacon",
+    "tagline": "Faster operations, fewer errors, lower cost.",
+    "description": "NovaBeacon is a process automation agency that removes manual bottlenecks from finance, HR, and operations workflows. They start with the processes that drain the most time. Each automation is documented and built for long-term reliability.",
+    "category": "process-automation",
+    "services": [
+      "Process discovery and audit",
+      "Document processing",
+      "Invoice and finance automation",
+      "Legacy system integration"
+    ],
+    "location": {
+      "city": "Salt Lake City",
+      "country": "United States"
+    },
+    "website": "https://www.novabeacon.com",
+    "founded": 2019,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 98,
+    "slug": "forge-wave",
+    "name": "ForgeWave",
+    "tagline": "Cutting through AI hype to deliver measurable value.",
+    "description": "ForgeWave is a AI consulting agency that guides organizations from AI strategy through to production deployment. They pair strategic guidance with hands-on engineering support.",
+    "category": "ai-consulting",
+    "services": [
+      "AI strategy and roadmapping",
+      "Use-case discovery",
+      "Vendor and tooling evaluation"
+    ],
+    "location": {
+      "city": "Chicago",
+      "country": "United States"
+    },
+    "website": "https://www.forgewave.com",
+    "founded": 2019,
+    "teamSize": "11-50",
+    "featured": true
+  },
+  {
+    "id": 99,
+    "slug": "nexa-sphere",
+    "name": "NexaSphere",
+    "tagline": "Smarter campaigns, fewer manual steps, better conversions.",
+    "description": "NexaSphere is a marketing automation agency that connects scattered marketing tools into one orchestrated funnel. Clients typically see faster campaign launches and tighter attribution. Every workflow is built to be measured, tested, and continuously improved.",
+    "category": "marketing-automation",
+    "services": [
+      "Customer segmentation",
+      "CRM and marketing platform integration",
+      "Attribution and reporting dashboards",
+      "Lead scoring and nurturing",
+      "Landing page and form automation"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "country": "United States"
+    },
+    "website": "https://www.nexasphere.com",
+    "founded": 2017,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 100,
+    "slug": "northwind-forge",
+    "name": "NorthwindForge",
+    "tagline": "We hand reps back their selling time.",
+    "description": "NorthwindForge is a sales automation agency that streamlines lead routing, follow-up, and CRM data entry so reps can sell. Reps spend more time talking to prospects and less time updating records. Each engagement is tuned to the team’s real sales motion.",
+    "category": "sales-automation",
+    "services": [
+      "Meeting scheduling automation",
+      "Lead routing and assignment",
+      "CRM hygiene and enrichment"
+    ],
+    "location": {
+      "city": "San Diego",
+      "country": "United States"
+    },
+    "website": "https://www.northwindforge.com",
+    "founded": 2016,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 101,
+    "slug": "junction-loop",
+    "name": "JunctionLoop",
+    "tagline": "Analytics infrastructure built for teams that move quickly.",
+    "description": "JunctionLoop is a data analytics agency that designs analytics infrastructure that scales with the business. Stakeholders get metrics they can actually trust and act on. They cover the full stack from ingestion to visualization.",
+    "category": "data-analytics",
+    "services": [
+      "Real-time reporting",
+      "ETL and data pipeline development",
+      "Self-serve analytics enablement",
+      "Predictive modeling"
+    ],
+    "location": {
+      "city": "Zurich",
+      "country": "Switzerland"
+    },
+    "website": "https://www.junctionloop.com",
+    "founded": 2017,
+    "teamSize": "2-9",
+    "featured": true
+  },
+  {
+    "id": 102,
+    "slug": "rune-pilot",
+    "name": "RunePilot",
+    "tagline": "Operational glue for your entire software stack.",
+    "description": "RunePilot is a workflow automation agency that connects business apps into seamless automated workflows. Integrations are built to be resilient and easy to monitor.",
+    "category": "workflow-automation",
+    "services": [
+      "Automated approvals and notifications",
+      "API orchestration",
+      "Process mapping"
+    ],
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "website": "https://www.runepilot.com",
+    "founded": 2016,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 103,
+    "slug": "ion-path",
+    "name": "IonPath",
+    "tagline": "Intelligent conversations across every channel.",
+    "description": "IonPath is a AI chatbot agency that designs conversational AI for support, sales, and onboarding. Every assistant is built with clear guardrails and escalation paths.",
+    "category": "ai-chatbots",
+    "services": [
+      "Omnichannel deployment",
+      "Live-agent handoff setup",
+      "Chatbot analytics and tuning",
+      "Conversational AI design"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "country": "United States"
+    },
+    "website": "https://www.ionpath.com",
+    "founded": 2020,
+    "teamSize": "1-10",
+    "featured": true
+  },
+  {
+    "id": 104,
+    "slug": "lumin-spark",
+    "name": "LuminSpark",
+    "tagline": "Automating the back-office work nobody enjoys.",
+    "description": "LuminSpark is a process automation agency that removes manual bottlenecks from finance, HR, and operations workflows. Clients see fewer errors and dramatically faster turnaround.",
+    "category": "process-automation",
+    "services": [
+      "Compliance workflow automation",
+      "Process discovery and audit",
+      "Document processing",
+      "Legacy system integration",
+      "Robotic process automation"
+    ],
+    "location": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "website": "https://www.luminspark.com",
+    "founded": 2022,
+    "teamSize": "100-200",
+    "featured": false
+  },
+  {
+    "id": 105,
+    "slug": "veloci-sphere",
+    "name": "VelociSphere",
+    "tagline": "We help you find the AI use cases that matter.",
+    "description": "VelociSphere is a AI consulting agency that helps teams identify, prototype, and ship high-impact AI use cases. They pair strategic guidance with hands-on engineering support.",
+    "category": "ai-consulting",
+    "services": [
+      "MLOps and model deployment",
+      "AI strategy and roadmapping",
+      "Machine learning prototyping",
+      "Use-case discovery",
+      "AI governance and training"
+    ],
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "website": "https://www.velocisphere.com",
+    "founded": 2020,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 106,
+    "slug": "halcyon-sync",
+    "name": "HalcyonSync",
+    "tagline": "Turning campaigns into self-running revenue engines.",
+    "description": "HalcyonSync is a marketing automation agency that builds personalized email and lifecycle programs that scale without extra headcount. Their team blends lifecycle strategy with hands-on platform engineering.",
+    "category": "marketing-automation",
+    "services": [
+      "Campaign orchestration",
+      "Lead scoring and nurturing",
+      "Email lifecycle automation",
+      "Landing page and form automation"
+    ],
+    "location": {
+      "city": "Atlanta",
+      "country": "United States"
+    },
+    "website": "https://www.halcyonsync.com",
+    "founded": 2018,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 107,
+    "slug": "junction-core",
+    "name": "JunctionCore",
+    "tagline": "Helping sales teams close more by doing less manual work.",
+    "description": "JunctionCore is a sales automation agency that builds repeatable sales playbooks powered by automation. Reps spend more time talking to prospects and less time updating records.",
+    "category": "sales-automation",
+    "services": [
+      "Outbound sequence automation",
+      "CRM hygiene and enrichment",
+      "Lead routing and assignment",
+      "Quote and proposal workflows",
+      "Meeting scheduling automation"
+    ],
+    "location": {
+      "city": "Seattle",
+      "country": "United States"
+    },
+    "website": "https://www.junctioncore.com",
+    "founded": 2016,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 108,
+    "slug": "pulse-loop",
+    "name": "PulseLoop",
+    "tagline": "From raw events to clear insight, end to end.",
+    "description": "PulseLoop is a data analytics agency that turns fragmented data sources into reliable, decision-ready reporting. Models and dashboards are documented, tested, and easy to maintain. They cover the full stack from ingestion to visualization.",
+    "category": "data-analytics",
+    "services": [
+      "Business intelligence dashboards",
+      "ETL and data pipeline development",
+      "Data warehouse design"
+    ],
+    "location": {
+      "city": "San Diego",
+      "country": "United States"
+    },
+    "website": "https://www.pulseloop.com",
+    "founded": 2017,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 109,
+    "slug": "veloci-craft",
+    "name": "VelociCraft",
+    "tagline": "Every repetitive task, quietly handled.",
+    "description": "VelociCraft is a workflow automation agency that connects business apps into seamless automated workflows. They map your processes before automating a single step. Teams reclaim hours each week from tedious manual work.",
+    "category": "workflow-automation",
+    "services": [
+      "API orchestration",
+      "Process mapping",
+      "App integration and middleware",
+      "Internal tooling automation",
+      "Document automation"
+    ],
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "website": "https://www.velocicraft.com",
+    "founded": 2022,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 110,
+    "slug": "drift-grid",
+    "name": "DriftGrid",
+    "tagline": "Chatbots your customers don’t hate.",
+    "description": "DriftGrid is a AI chatbot agency that designs conversational AI for support, sales, and onboarding. Customers get instant answers while teams handle only what needs a human. Every assistant is built with clear guardrails and escalation paths.",
+    "category": "ai-chatbots",
+    "services": [
+      "Conversational AI design",
+      "Voice assistant development",
+      "Multilingual chatbot development"
+    ],
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "website": "https://www.driftgrid.com",
+    "founded": 2022,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 111,
+    "slug": "veloci-anchor",
+    "name": "VelociAnchor",
+    "tagline": "Faster operations, fewer errors, lower cost.",
+    "description": "VelociAnchor is a process automation agency that removes manual bottlenecks from finance, HR, and operations workflows. Each automation is documented and built for long-term reliability. They start with the processes that drain the most time.",
+    "category": "process-automation",
+    "services": [
+      "Legacy system integration",
+      "HR and onboarding automation",
+      "Invoice and finance automation",
+      "Robotic process automation",
+      "Compliance workflow automation"
+    ],
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "website": "https://www.velocianchor.com",
+    "founded": 2022,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 112,
+    "slug": "wisp-core",
+    "name": "WispCore",
+    "tagline": "We help you find the AI use cases that matter.",
+    "description": "WispCore is a AI consulting agency that helps teams identify, prototype, and ship high-impact AI use cases. Engagements focus on use cases with clear, measurable returns.",
+    "category": "ai-consulting",
+    "services": [
+      "AI governance and training",
+      "AI strategy and roadmapping",
+      "MLOps and model deployment"
+    ],
+    "location": {
+      "city": "Dallas",
+      "country": "United States"
+    },
+    "website": "https://www.wispcore.com",
+    "founded": 2022,
+    "teamSize": "2-9",
+    "featured": true
+  },
+  {
+    "id": 113,
+    "slug": "umbra-harbor",
+    "name": "UmbraHarbor",
+    "tagline": "Turning campaigns into self-running revenue engines.",
+    "description": "UmbraHarbor is a marketing automation agency that designs and automates end-to-end marketing journeys for growth-focused brands. Clients typically see faster campaign launches and tighter attribution.",
+    "category": "marketing-automation",
+    "services": [
+      "Attribution and reporting dashboards",
+      "Campaign orchestration",
+      "Lead scoring and nurturing",
+      "CRM and marketing platform integration"
+    ],
+    "location": {
+      "city": "Auckland",
+      "country": "New Zealand"
+    },
+    "website": "https://www.umbraharbor.com",
+    "founded": 2016,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 114,
+    "slug": "cogni-scale",
+    "name": "CogniScale",
+    "tagline": "Outbound and follow-up that runs itself.",
+    "description": "CogniScale is a sales automation agency that builds repeatable sales playbooks powered by automation. Each engagement is tuned to the team’s real sales motion.",
+    "category": "sales-automation",
+    "services": [
+      "Pipeline reporting",
+      "Outbound sequence automation",
+      "Lead routing and assignment",
+      "CRM hygiene and enrichment",
+      "Meeting scheduling automation"
+    ],
+    "location": {
+      "city": "Denver",
+      "country": "United States"
+    },
+    "website": "https://www.cogniscale.com",
+    "founded": 2016,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 115,
+    "slug": "drift-core",
+    "name": "DriftCore",
+    "tagline": "Analytics infrastructure built for teams that move quickly.",
+    "description": "DriftCore is a data analytics agency that builds modern data pipelines and dashboards for data-driven organizations. Models and dashboards are documented, tested, and easy to maintain.",
+    "category": "data-analytics",
+    "services": [
+      "Business intelligence dashboards",
+      "Data warehouse design",
+      "Data quality and governance",
+      "Predictive modeling",
+      "Real-time reporting"
+    ],
+    "location": {
+      "city": "Phoenix",
+      "country": "United States"
+    },
+    "website": "https://www.driftcore.com",
+    "founded": 2017,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 116,
+    "slug": "nexa-grid",
+    "name": "NexaGrid",
+    "tagline": "Operational glue for your entire software stack.",
+    "description": "NexaGrid is a workflow automation agency that designs no-code and custom automations that keep operations moving. They map your processes before automating a single step.",
+    "category": "workflow-automation",
+    "services": [
+      "API orchestration",
+      "App integration and middleware",
+      "Automated approvals and notifications"
+    ],
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "website": "https://www.nexagrid.com",
+    "founded": 2018,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 117,
+    "slug": "quill-matrix",
+    "name": "QuillMatrix",
+    "tagline": "Always-on support that sounds human.",
+    "description": "QuillMatrix is a AI chatbot agency that builds intelligent chat assistants that resolve customer questions around the clock. Every assistant is built with clear guardrails and escalation paths. Bots are trained on real conversations and continuously refined.",
+    "category": "ai-chatbots",
+    "services": [
+      "Omnichannel deployment",
+      "Multilingual chatbot development",
+      "Conversational AI design",
+      "Live-agent handoff setup"
+    ],
+    "location": {
+      "city": "Chicago",
+      "country": "United States"
+    },
+    "website": "https://www.quillmatrix.com",
+    "founded": 2023,
+    "teamSize": "100-200",
+    "featured": false
+  },
+  {
+    "id": 118,
+    "slug": "rune-bloom",
+    "name": "RuneBloom",
+    "tagline": "Robotic process automation that pays for itself.",
+    "description": "RuneBloom is a process automation agency that removes manual bottlenecks from finance, HR, and operations workflows. They start with the processes that drain the most time. Clients see fewer errors and dramatically faster turnaround.",
+    "category": "process-automation",
+    "services": [
+      "Process discovery and audit",
+      "Robotic process automation",
+      "Invoice and finance automation",
+      "Legacy system integration"
+    ],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "website": "https://www.runebloom.com",
+    "founded": 2019,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 119,
+    "slug": "veloci-nexus",
+    "name": "VelociNexus",
+    "tagline": "From AI roadmap to production, with you the whole way.",
+    "description": "VelociNexus is a AI consulting agency that helps teams identify, prototype, and ship high-impact AI use cases. They pair strategic guidance with hands-on engineering support. They emphasize responsible, well-governed AI from day one.",
+    "category": "ai-consulting",
+    "services": [
+      "AI governance and training",
+      "Machine learning prototyping",
+      "Use-case discovery",
+      "Vendor and tooling evaluation"
+    ],
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "website": "https://www.velocinexus.com",
+    "founded": 2016,
+    "teamSize": "11-50",
+    "featured": false
+  },
+  {
+    "id": 120,
+    "slug": "pulse-works",
+    "name": "PulseWorks",
+    "tagline": "Turning campaigns into self-running revenue engines.",
+    "description": "PulseWorks is a marketing automation agency that builds personalized email and lifecycle programs that scale without extra headcount. Clients typically see faster campaign launches and tighter attribution.",
+    "category": "marketing-automation",
+    "services": [
+      "Attribution and reporting dashboards",
+      "Lead scoring and nurturing",
+      "Email lifecycle automation",
+      "Landing page and form automation"
+    ],
+    "location": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "website": "https://www.pulseworks.com",
+    "founded": 2019,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 121,
+    "slug": "rune-labs",
+    "name": "RuneLabs",
+    "tagline": "We hand reps back their selling time.",
+    "description": "RuneLabs is a sales automation agency that automates outbound sequences and pipeline hygiene for high-velocity sales teams. Each engagement is tuned to the team’s real sales motion.",
+    "category": "sales-automation",
+    "services": [
+      "Pipeline reporting",
+      "Outbound sequence automation",
+      "Meeting scheduling automation",
+      "CRM hygiene and enrichment"
+    ],
+    "location": {
+      "city": "Austin",
+      "country": "United States"
+    },
+    "website": "https://www.runelabs.com",
+    "founded": 2017,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 122,
+    "slug": "glint-vault",
+    "name": "GlintVault",
+    "tagline": "Dashboards that finally answer the right questions.",
+    "description": "GlintVault is a data analytics agency that designs analytics infrastructure that scales with the business. They cover the full stack from ingestion to visualization.",
+    "category": "data-analytics",
+    "services": [
+      "Self-serve analytics enablement",
+      "Business intelligence dashboards",
+      "Data warehouse design",
+      "Predictive modeling"
+    ],
+    "location": {
+      "city": "Miami",
+      "country": "United States"
+    },
+    "website": "https://www.glintvault.com",
+    "founded": 2022,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 123,
+    "slug": "lumen-pilot",
+    "name": "LumenPilot",
+    "tagline": "We automate the handoffs that slow teams down.",
+    "description": "LumenPilot is a workflow automation agency that connects business apps into seamless automated workflows. Integrations are built to be resilient and easy to monitor.",
+    "category": "workflow-automation",
+    "services": [
+      "App integration and middleware",
+      "No-code workflow design",
+      "Document automation",
+      "Process mapping"
+    ],
+    "location": {
+      "city": "Seattle",
+      "country": "United States"
+    },
+    "website": "https://www.lumenpilot.com",
+    "founded": 2019,
+    "teamSize": "51-200",
+    "featured": false
+  },
+  {
+    "id": 124,
+    "slug": "cogni-stack",
+    "name": "CogniStack",
+    "tagline": "Chatbots your customers don’t hate.",
+    "description": "CogniStack is a AI chatbot agency that deploys multilingual chatbots grounded in your own knowledge base. Bots are trained on real conversations and continuously refined.",
+    "category": "ai-chatbots",
+    "services": [
+      "Knowledge base integration",
+      "Omnichannel deployment",
+      "Voice assistant development",
+      "Conversational AI design",
+      "Live-agent handoff setup"
+    ],
+    "location": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "website": "https://www.cognistack.com",
+    "founded": 2023,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 125,
+    "slug": "umbra-vault",
+    "name": "UmbraVault",
+    "tagline": "Robotic process automation that pays for itself.",
+    "description": "UmbraVault is a process automation agency that automates high-volume back-office processes with RPA and custom software. Clients see fewer errors and dramatically faster turnaround. They start with the processes that drain the most time.",
+    "category": "process-automation",
+    "services": [
+      "Process discovery and audit",
+      "Document processing",
+      "Legacy system integration",
+      "HR and onboarding automation",
+      "Invoice and finance automation"
+    ],
+    "location": {
+      "city": "Austin",
+      "country": "United States"
+    },
+    "website": "https://www.umbravault.com",
+    "founded": 2020,
+    "teamSize": "60-150",
+    "featured": true
+  },
+  {
+    "id": 126,
+    "slug": "quasar-pilot",
+    "name": "QuasarPilot",
+    "tagline": "Helping companies turn AI ambition into shipped products.",
+    "description": "QuasarPilot is a AI consulting agency that advises leadership on practical, responsible AI adoption. They emphasize responsible, well-governed AI from day one. Engagements focus on use cases with clear, measurable returns.",
+    "category": "ai-consulting",
+    "services": [
+      "AI strategy and roadmapping",
+      "Use-case discovery",
+      "MLOps and model deployment",
+      "Machine learning prototyping"
+    ],
+    "location": {
+      "city": "Nashville",
+      "country": "United States"
+    },
+    "website": "https://www.quasarpilot.com",
+    "founded": 2019,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 127,
+    "slug": "pulse-mind",
+    "name": "PulseMind",
+    "tagline": "Smarter campaigns, fewer manual steps, better conversions.",
+    "description": "PulseMind is a marketing automation agency that designs and automates end-to-end marketing journeys for growth-focused brands. Clients typically see faster campaign launches and tighter attribution.",
+    "category": "marketing-automation",
+    "services": [
+      "Landing page and form automation",
+      "Email lifecycle automation",
+      "Lead scoring and nurturing"
+    ],
+    "location": {
+      "city": "Bangalore",
+      "country": "India"
+    },
+    "website": "https://www.pulsemind.com",
+    "founded": 2023,
+    "teamSize": "2-9",
+    "featured": false
+  },
+  {
+    "id": 128,
+    "slug": "sable-bridge",
+    "name": "SableBridge",
+    "tagline": "Helping sales teams close more by doing less manual work.",
+    "description": "SableBridge is a sales automation agency that builds repeatable sales playbooks powered by automation. They obsess over pipeline velocity and clean CRM data. Reps spend more time talking to prospects and less time updating records.",
+    "category": "sales-automation",
+    "services": [
+      "CRM hygiene and enrichment",
+      "Meeting scheduling automation",
+      "Pipeline reporting",
+      "Sales playbook automation"
+    ],
+    "location": {
+      "city": "Dallas",
+      "country": "United States"
+    },
+    "website": "https://www.sablebridge.com",
+    "founded": 2017,
+    "teamSize": "2-9",
+    "featured": false
+  },
+  {
+    "id": 129,
+    "slug": "lattice-engine",
+    "name": "LatticeEngine",
+    "tagline": "Analytics infrastructure built for teams that move quickly.",
+    "description": "LatticeEngine is a data analytics agency that designs analytics infrastructure that scales with the business. Models and dashboards are documented, tested, and easy to maintain. Stakeholders get metrics they can actually trust and act on.",
+    "category": "data-analytics",
+    "services": [
+      "Self-serve analytics enablement",
+      "Real-time reporting",
+      "Business intelligence dashboards",
+      "Data warehouse design"
+    ],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "website": "https://www.latticeengine.com",
+    "founded": 2020,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 130,
+    "slug": "veloci-matrix",
+    "name": "VelociMatrix",
+    "tagline": "Operational glue for your entire software stack.",
+    "description": "VelociMatrix is a workflow automation agency that connects business apps into seamless automated workflows. Teams reclaim hours each week from tedious manual work.",
+    "category": "workflow-automation",
+    "services": [
+      "Document automation",
+      "App integration and middleware",
+      "No-code workflow design",
+      "API orchestration",
+      "Automated approvals and notifications"
+    ],
+    "location": {
+      "city": "Atlanta",
+      "country": "United States"
+    },
+    "website": "https://www.velocimatrix.com",
+    "founded": 2020,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 131,
+    "slug": "kinet-matrix",
+    "name": "KinetMatrix",
+    "tagline": "We build assistants that resolve, not deflect.",
+    "description": "KinetMatrix is a AI chatbot agency that builds intelligent chat assistants that resolve customer questions around the clock. Customers get instant answers while teams handle only what needs a human. Every assistant is built with clear guardrails and escalation paths.",
+    "category": "ai-chatbots",
+    "services": [
+      "Voice assistant development",
+      "Knowledge base integration",
+      "Multilingual chatbot development",
+      "Omnichannel deployment"
+    ],
+    "location": {
+      "city": "Bangalore",
+      "country": "India"
+    },
+    "website": "https://www.kinetmatrix.com",
+    "founded": 2018,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 132,
+    "slug": "cypher-stream",
+    "name": "CypherStream",
+    "tagline": "Automating the back-office work nobody enjoys.",
+    "description": "CypherStream is a process automation agency that designs end-to-end process automation that cuts cost and error rates. Each automation is documented and built for long-term reliability. Clients see fewer errors and dramatically faster turnaround.",
+    "category": "process-automation",
+    "services": [
+      "Compliance workflow automation",
+      "Invoice and finance automation",
+      "HR and onboarding automation",
+      "Process discovery and audit"
+    ],
+    "location": {
+      "city": "Auckland",
+      "country": "New Zealand"
+    },
+    "website": "https://www.cypherstream.com",
+    "founded": 2016,
+    "teamSize": "51-200",
+    "featured": false
+  },
+  {
+    "id": 133,
+    "slug": "northwind-flow",
+    "name": "NorthwindFlow",
+    "tagline": "We help you find the AI use cases that matter.",
+    "description": "NorthwindFlow is a AI consulting agency that helps teams identify, prototype, and ship high-impact AI use cases. They pair strategic guidance with hands-on engineering support.",
+    "category": "ai-consulting",
+    "services": [
+      "AI strategy and roadmapping",
+      "MLOps and model deployment",
+      "Machine learning prototyping",
+      "LLM application development",
+      "Vendor and tooling evaluation"
+    ],
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "website": "https://www.northwindflow.com",
+    "founded": 2018,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 134,
+    "slug": "meridian-stack",
+    "name": "MeridianStack",
+    "tagline": "We make your marketing stack work as one connected machine.",
+    "description": "MeridianStack is a marketing automation agency that designs and automates end-to-end marketing journeys for growth-focused brands. Their team blends lifecycle strategy with hands-on platform engineering. Clients typically see faster campaign launches and tighter attribution.",
+    "category": "marketing-automation",
+    "services": [
+      "Attribution and reporting dashboards",
+      "Lead scoring and nurturing",
+      "Campaign orchestration"
+    ],
+    "location": {
+      "city": "Portland",
+      "country": "United States"
+    },
+    "website": "https://www.meridianstack.com",
+    "founded": 2017,
+    "teamSize": "60-150",
+    "featured": false
+  },
+  {
+    "id": 135,
+    "slug": "ember-anchor",
+    "name": "EmberAnchor",
+    "tagline": "Outbound and follow-up that runs itself.",
+    "description": "EmberAnchor is a sales automation agency that builds repeatable sales playbooks powered by automation. Reps spend more time talking to prospects and less time updating records.",
+    "category": "sales-automation",
+    "services": [
+      "Pipeline reporting",
+      "Meeting scheduling automation",
+      "CRM hygiene and enrichment",
+      "Sales playbook automation",
+      "Quote and proposal workflows"
+    ],
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "website": "https://www.emberanchor.com",
+    "founded": 2016,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 136,
+    "slug": "cypher-grid",
+    "name": "CypherGrid",
+    "tagline": "Analytics infrastructure built for teams that move quickly.",
+    "description": "CypherGrid is a data analytics agency that builds modern data pipelines and dashboards for data-driven organizations. Models and dashboards are documented, tested, and easy to maintain.",
+    "category": "data-analytics",
+    "services": [
+      "Self-serve analytics enablement",
+      "ETL and data pipeline development",
+      "Business intelligence dashboards",
+      "Real-time reporting",
+      "Data warehouse design"
+    ],
+    "location": {
+      "city": "Dallas",
+      "country": "United States"
+    },
+    "website": "https://www.cyphergrid.com",
+    "founded": 2018,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 137,
+    "slug": "cogni-pilot",
+    "name": "CogniPilot",
+    "tagline": "Connecting your tools so work flows without friction.",
+    "description": "CogniPilot is a workflow automation agency that connects business apps into seamless automated workflows. They map your processes before automating a single step.",
+    "category": "workflow-automation",
+    "services": [
+      "API orchestration",
+      "App integration and middleware",
+      "Process mapping",
+      "No-code workflow design"
+    ],
+    "location": {
+      "city": "Zurich",
+      "country": "Switzerland"
+    },
+    "website": "https://www.cognipilot.com",
+    "founded": 2021,
+    "teamSize": "51-200",
+    "featured": false
+  },
+  {
+    "id": 138,
+    "slug": "rune-signal",
+    "name": "RuneSignal",
+    "tagline": "Chatbots your customers don’t hate.",
+    "description": "RuneSignal is a AI chatbot agency that builds intelligent chat assistants that resolve customer questions around the clock. Every assistant is built with clear guardrails and escalation paths. Bots are trained on real conversations and continuously refined.",
+    "category": "ai-chatbots",
+    "services": [
+      "Omnichannel deployment",
+      "Multilingual chatbot development",
+      "Chatbot analytics and tuning",
+      "Voice assistant development"
+    ],
+    "location": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "website": "https://www.runesignal.com",
+    "founded": 2023,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 139,
+    "slug": "forge-matrix",
+    "name": "ForgeMatrix",
+    "tagline": "We retire your most tedious manual processes.",
+    "description": "ForgeMatrix is a process automation agency that automates high-volume back-office processes with RPA and custom software. Clients see fewer errors and dramatically faster turnaround.",
+    "category": "process-automation",
+    "services": [
+      "Compliance workflow automation",
+      "Document processing",
+      "Legacy system integration",
+      "HR and onboarding automation",
+      "Robotic process automation"
+    ],
+    "location": {
+      "city": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "website": "https://www.forgematrix.com",
+    "founded": 2018,
+    "teamSize": "51-200",
+    "featured": false
+  },
+  {
+    "id": 140,
+    "slug": "polaris-spark",
+    "name": "PolarisSpark",
+    "tagline": "Pragmatic AI strategy, real implementation.",
+    "description": "PolarisSpark is a AI consulting agency that guides organizations from AI strategy through to production deployment. Engagements focus on use cases with clear, measurable returns. They pair strategic guidance with hands-on engineering support.",
+    "category": "ai-consulting",
+    "services": [
+      "AI governance and training",
+      "MLOps and model deployment",
+      "Vendor and tooling evaluation",
+      "Machine learning prototyping",
+      "AI strategy and roadmapping"
+    ],
+    "location": {
+      "city": "Phoenix",
+      "country": "United States"
+    },
+    "website": "https://www.polarisspark.com",
+    "founded": 2020,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 141,
+    "slug": "lumin-sphere",
+    "name": "LuminSphere",
+    "tagline": "Turning campaigns into self-running revenue engines.",
+    "description": "LuminSphere is a marketing automation agency that connects scattered marketing tools into one orchestrated funnel. Every workflow is built to be measured, tested, and continuously improved.",
+    "category": "marketing-automation",
+    "services": [
+      "Landing page and form automation",
+      "Customer segmentation",
+      "Lead scoring and nurturing",
+      "CRM and marketing platform integration"
+    ],
+    "location": {
+      "city": "Nashville",
+      "country": "United States"
+    },
+    "website": "https://www.luminsphere.com",
+    "founded": 2019,
+    "teamSize": "1-10",
+    "featured": false
+  },
+  {
+    "id": 142,
+    "slug": "flux-pilot",
+    "name": "FluxPilot",
+    "tagline": "Helping sales teams close more by doing less manual work.",
+    "description": "FluxPilot is a sales automation agency that builds repeatable sales playbooks powered by automation. Reps spend more time talking to prospects and less time updating records. They obsess over pipeline velocity and clean CRM data.",
+    "category": "sales-automation",
+    "services": [
+      "Outbound sequence automation",
+      "Sales playbook automation",
+      "CRM hygiene and enrichment",
+      "Pipeline reporting"
+    ],
+    "location": {
+      "city": "Tel Aviv",
+      "country": "Israel"
+    },
+    "website": "https://www.fluxpilot.com",
+    "founded": 2022,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 143,
+    "slug": "orbit-bloom",
+    "name": "OrbitBloom",
+    "tagline": "From raw events to clear insight, end to end.",
+    "description": "OrbitBloom is a data analytics agency that turns fragmented data sources into reliable, decision-ready reporting. Models and dashboards are documented, tested, and easy to maintain.",
+    "category": "data-analytics",
+    "services": [
+      "Predictive modeling",
+      "Data warehouse design",
+      "Business intelligence dashboards",
+      "ETL and data pipeline development"
+    ],
+    "location": {
+      "city": "Austin",
+      "country": "United States"
+    },
+    "website": "https://www.orbitbloom.com",
+    "founded": 2016,
+    "teamSize": "4-12",
+    "featured": false
+  },
+  {
+    "id": 144,
+    "slug": "lumen-works",
+    "name": "LumenWorks",
+    "tagline": "Less copy-paste, more progress.",
+    "description": "LumenWorks is a workflow automation agency that designs no-code and custom automations that keep operations moving. They map your processes before automating a single step. Integrations are built to be resilient and easy to monitor.",
+    "category": "workflow-automation",
+    "services": [
+      "API orchestration",
+      "App integration and middleware",
+      "Internal tooling automation",
+      "No-code workflow design"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "country": "United States"
+    },
+    "website": "https://www.lumenworks.com",
+    "founded": 2018,
+    "teamSize": "60-150",
+    "featured": true
+  },
+  {
+    "id": 145,
+    "slug": "helix-core",
+    "name": "HelixCore",
+    "tagline": "Conversational AI that actually helps your customers.",
+    "description": "HelixCore is a AI chatbot agency that builds intelligent chat assistants that resolve customer questions around the clock. Bots are trained on real conversations and continuously refined. Customers get instant answers while teams handle only what needs a human.",
+    "category": "ai-chatbots",
+    "services": [
+      "Knowledge base integration",
+      "Voice assistant development",
+      "Conversational AI design",
+      "Live-agent handoff setup",
+      "Omnichannel deployment"
+    ],
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "website": "https://www.helixcore.com",
+    "founded": 2021,
+    "teamSize": "51-200",
+    "featured": false
+  },
+  {
+    "id": 146,
+    "slug": "ember-core",
+    "name": "EmberCore",
+    "tagline": "Faster operations, fewer errors, lower cost.",
+    "description": "EmberCore is a process automation agency that removes manual bottlenecks from finance, HR, and operations workflows. Clients see fewer errors and dramatically faster turnaround. They start with the processes that drain the most time.",
+    "category": "process-automation",
+    "services": [
+      "HR and onboarding automation",
+      "Document processing",
+      "Invoice and finance automation",
+      "Process discovery and audit",
+      "Compliance workflow automation"
+    ],
+    "location": {
+      "city": "Raleigh",
+      "country": "United States"
+    },
+    "website": "https://www.embercore.com",
+    "founded": 2022,
+    "teamSize": "2-9",
+    "featured": false
+  },
+  {
+    "id": 147,
+    "slug": "drift-forge",
+    "name": "DriftForge",
+    "tagline": "Cutting through AI hype to deliver measurable value.",
+    "description": "DriftForge is a AI consulting agency that advises leadership on practical, responsible AI adoption. Engagements focus on use cases with clear, measurable returns.",
+    "category": "ai-consulting",
+    "services": [
+      "LLM application development",
+      "Vendor and tooling evaluation",
+      "AI strategy and roadmapping",
+      "Machine learning prototyping",
+      "Use-case discovery"
+    ],
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "website": "https://www.driftforge.com",
+    "founded": 2023,
+    "teamSize": "15-40",
+    "featured": false
+  },
+  {
+    "id": 148,
+    "slug": "kestrel-engine",
+    "name": "KestrelEngine",
+    "tagline": "Automated marketing that nurtures every lead while you sleep.",
+    "description": "KestrelEngine is a marketing automation agency that builds personalized email and lifecycle programs that scale without extra headcount. Clients typically see faster campaign launches and tighter attribution. Their team blends lifecycle strategy with hands-on platform engineering.",
+    "category": "marketing-automation",
+    "services": [
+      "Email lifecycle automation",
+      "CRM and marketing platform integration",
+      "Customer segmentation",
+      "Campaign orchestration",
+      "Attribution and reporting dashboards"
+    ],
+    "location": {
+      "city": "Chicago",
+      "country": "United States"
+    },
+    "website": "https://www.kestrelengine.com",
+    "founded": 2021,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 149,
+    "slug": "lumen-sphere",
+    "name": "LumenSphere",
+    "tagline": "Helping sales teams close more by doing less manual work.",
+    "description": "LumenSphere is a sales automation agency that streamlines lead routing, follow-up, and CRM data entry so reps can sell. Reps spend more time talking to prospects and less time updating records. Each engagement is tuned to the team’s real sales motion.",
+    "category": "sales-automation",
+    "services": [
+      "Outbound sequence automation",
+      "Meeting scheduling automation",
+      "Pipeline reporting",
+      "Quote and proposal workflows",
+      "Sales playbook automation"
+    ],
+    "location": {
+      "city": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "website": "https://www.lumensphere.com",
+    "founded": 2016,
+    "teamSize": "25-60",
+    "featured": false
+  },
+  {
+    "id": 150,
+    "slug": "verda-stream",
+    "name": "VerdaStream",
+    "tagline": "Turning messy data into decisions you can trust.",
+    "description": "VerdaStream is a data analytics agency that turns fragmented data sources into reliable, decision-ready reporting. Stakeholders get metrics they can actually trust and act on. Models and dashboards are documented, tested, and easy to maintain.",
+    "category": "data-analytics",
+    "services": [
+      "Data quality and governance",
+      "Self-serve analytics enablement",
+      "Predictive modeling"
+    ],
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "website": "https://www.verdastream.com",
+    "founded": 2023,
+    "teamSize": "4-12",
+    "featured": false
+  }
+]
