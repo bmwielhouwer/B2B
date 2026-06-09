@@ -2,7 +2,7 @@
 
 A turnkey, revenue-ready B2B directory that connects businesses with agencies that build **AI and automation workflows** — marketing automation, sales automation, data analytics, workflow automation, AI chatbots, process automation, and AI consulting.
 
-It ships with **150 seed listings**, paid self-serve submissions through Stripe, automated confirmation emails, an owner dashboard, and full SEO out of the box. Deploy it, point a domain at it, and it's a business on day one.
+It ships with **150 seed listings**, paid self-serve submissions through Stripe, automated confirmation emails, owner notifications for each new sale, and full SEO out of the box. Deploy it, point a domain at it, and it's a business on day one.
 
 ---
 
@@ -29,12 +29,11 @@ The AI/automation services market is expanding fast, and the buyers (businesses)
 | Styling | Tailwind CSS (no component library — fully owned markup) |
 | Content | Flat-file JSON (`data/agencies.json`) |
 | Payments | Stripe Checkout + webhooks |
-| Email | Resend (transactional confirmation emails) |
-| Storage | Upstash Redis / Vercel KV (paid submissions) |
+| Email | Resend (transactional confirmation + owner notification emails) |
 | Hosting | Vercel (one-click deploy) |
 | SEO | Static generation, per-page metadata, canonical URLs, Schema.org JSON-LD, sitemap & robots |
 
-There are no paid dependencies to run the core directory. Stripe, Resend, and Upstash all have free tiers that comfortably cover early traffic.
+There are no paid dependencies to run the core directory. Stripe and Resend both have free tiers that comfortably cover early traffic.
 
 ---
 
@@ -61,7 +60,7 @@ That's the whole site live. The next sections wire up payments and email.
    - **Standard Listing** — one-time price of **$49**. Save and copy its price ID (`price_…`) → `STRIPE_STANDARD_PRICE_ID`.
    - **Featured Listing** — one-time price of **$99**. Copy its price ID → `STRIPE_FEATURED_PRICE_ID`.
    > Price IDs are **never hardcoded** — the app reads them from these environment variables, so you can change pricing without touching code.
-4. Set up the webhook so paid submissions are recorded and customers are emailed:
+4. Set up the webhook so each paid submission emails you and the customer:
    - Go to **Developers → Webhooks → Add endpoint.**
    - Endpoint URL: `https://yourdomain.com/api/stripe-webhook`
    - Event to send: **`checkout.session.completed`**
@@ -76,7 +75,8 @@ That's the whole site live. The next sections wire up payments and email.
 2. Go to **API Keys**, create a key, and set it as `RESEND_API_KEY`.
 3. Go to **Domains → Add Domain**, enter your domain, and add the DNS records Resend provides (SPF/DKIM) at your domain registrar. Wait for verification (usually minutes).
 4. Set `RESEND_FROM_EMAIL` to an address on that verified domain — for example `hello@yourdomain.com`. Emails are sent as **"Directory" `<RESEND_FROM_EMAIL>`**.
-5. After a test purchase, the customer receives an automated confirmation explaining their listing will be reviewed and added within 48 hours.
+5. Set `OWNER_EMAIL` to the address where you want to receive a notification for every new paid submission (customer email, amount paid, timestamp, and the submitted listing details).
+6. After a test purchase, the customer receives an automated confirmation explaining their listing will be reviewed and added within 48 hours, and you receive the owner notification.
 
 > Until a domain is verified you can use Resend's sandbox sender for testing, but a verified domain is required for production deliverability.
 
@@ -109,21 +109,15 @@ All directory content lives in a single file: **`data/agencies.json`**. There is
    - Set `"featured": true` to give a listing the gold border and top placement.
 3. Commit and push. Vercel redeploys automatically and statically regenerates the new/updated pages and the sitemap.
 
-This makes fulfilling a paid submission a 60-second job: copy the buyer's details from the admin dashboard into the JSON file and push.
+This makes fulfilling a paid submission a 60-second job: copy the buyer's details from the owner notification email into the JSON file and push.
 
 ---
 
-## View new paid submissions
+## Get notified of new paid submissions
 
-Every completed Stripe payment is recorded automatically and shown at:
+Every completed Stripe payment automatically sends a notification email to `OWNER_EMAIL`. The email includes the customer email, the amount paid, the timestamp, and the submitted listing details (agency name, tier, website, category, and description).
 
-```
-https://yourdomain.com/admin/submissions
-```
-
-The page lists each paid submission — agency name, email, tier, website, and submission date — newest first. It is intentionally **not linked anywhere** on the site and is protected only by its obscure URL (keep it private). Use it as your fulfillment queue: when a payment lands, the buyer's details appear here, and you add them to `data/agencies.json`.
-
-> Want stronger protection later? Putting this route behind Vercel password protection or a simple auth check is a small, optional upgrade.
+Use it as your fulfillment queue: when a payment lands, the buyer's details arrive in your inbox, and you add them to `data/agencies.json`.
 
 ---
 
